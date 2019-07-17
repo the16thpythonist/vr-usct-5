@@ -1,0 +1,1205 @@
+﻿Log file open, 11/28/16 20:58:36
+LogInit:Display: Running engine for game: vrusct1
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1194294279) SRandInit(1194294279).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.078608
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3142249
+LogInit: Engine Version: 4.13.1-3142249+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3142249
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Sep 28 2016 02:12:12
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.11.28-19.58.37:167][  0]LogInit: Selected Device Profile: [Windows]
+[2016.11.28-19.58.37:167][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.11.28-19.58.37:207][  0]LogInit: Computer: USER-PC
+[2016.11.28-19.58.37:207][  0]LogInit: User: till
+[2016.11.28-19.58.37:207][  0]LogInit: CPU Page size=65536, Cores=4
+[2016.11.28-19.58.37:207][  0]LogInit: High frequency timer resolution =3.138994 MHz
+[2016.11.28-19.58.37:207][  0]LogMemory: Memory total: Physical=4.0GB (4GB approx)
+[2016.11.28-19.58.37:207][  0]LogMemory: Platform Memory Stats for Windows
+[2016.11.28-19.58.37:207][  0]LogMemory: Process Physical Memory: 255.85 MB used, 255.85 MB peak
+[2016.11.28-19.58.37:207][  0]LogMemory: Process Virtual Memory: 260.54 MB used, 260.54 MB peak
+[2016.11.28-19.58.37:207][  0]LogMemory: Physical Memory: 2201.18 MB used, 4095.18 MB total
+[2016.11.28-19.58.37:207][  0]LogMemory: Virtual Memory: 590.46 MB used, 8388608.00 MB total
+[2016.11.28-19.58.37:337][  0]LogTextLocalizationManager: No translations for ('de-DE') exist, falling back to 'en' for localization and internationalization data.
+[2016.11.28-19.58.39:055][  0]LogD3D11RHI: D3D11 adapters:
+[2016.11.28-19.58.39:122][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 680' (Feature Level 11_0)
+[2016.11.28-19.58.39:122][  0]LogD3D11RHI:       4026/0/1791 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2016.11.28-19.58.39:122][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.11.28-19.58.39:136][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.11.28-19.58.39:136][  0]LogD3D11RHI:     GPU DeviceId: 0x1180 (for the marketing name, search the web for "GPU Device Id")
+[2016.11.28-19.58.39:136][  0]LogWindows: EnumDisplayDevices:
+[2016.11.28-19.58.39:195][  0]LogWindows:    0. 'NVIDIA GeForce GTX 680' (P:1 D:1)
+[2016.11.28-19.58.39:195][  0]LogWindows:    1. 'NVIDIA GeForce GTX 680' (P:0 D:0)
+[2016.11.28-19.58.39:195][  0]LogWindows:    2. 'NVIDIA GeForce GTX 680' (P:0 D:0)
+[2016.11.28-19.58.39:196][  0]LogWindows:    3. 'NVIDIA GeForce GTX 680' (P:0 D:0)
+[2016.11.28-19.58.39:196][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2016.11.28-19.58.39:196][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2016.11.28-19.58.39:197][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2016.11.28-19.58.39:197][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2016.11.28-19.58.39:197][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 680
+[2016.11.28-19.58.39:197][  0]LogD3D11RHI:   Driver Version: 375.70 (internal:21.21.13.7570, unified:375.70)
+[2016.11.28-19.58.39:197][  0]LogD3D11RHI:      Driver Date: 10-25-2016
+[2016.11.28-19.58.39:197][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.11.28-19.58.39:214][  0]LogD3D11RHI: Async texture creation enabled
+[2016.11.28-19.58.39:231][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2016.11.28-19.58.39:231][  0]LogShaderCompilers: Guid format shader working directory is 5 characters bigger than the processId version (../../../../../../UnrealProjects/vrusct1/Intermediate/Shaders/WorkingDirectory/7456/).
+[2016.11.28-19.58.39:231][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/till/AppData/Local/Temp/UnrealShaderWorkingDir/E8430060449E12A1E713EDA8A4BD166A/'.
+[2016.11.28-19.58.39:231][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.11.28-19.58.47:309][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.11.28-19.58.47:322][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.11.28-19.58.47:334][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.11.28-19.58.47:346][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.11.28-19.58.47:380][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.11.28-19.58.47:420][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.11.28-19.58.47:430][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.11.28-19.58.47:442][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.11.28-19.58.47:453][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.11.28-19.58.47:464][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.11.28-19.58.47:488][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.11.28-19.58.47:538][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.11.28-19.58.47:538][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.11.28-19.58.47:546][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.11.28-19.58.47:694][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.11.28-19.58.47:704][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.11.28-19.58.47:716][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.11.28-19.58.47:728][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.11.28-19.58.47:739][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.11.28-19.58.47:765][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.11.28-19.58.47:765][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.11.28-19.58.49:003][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.11.28-19.58.50:847][  0]LogDerivedDataCache: Loaded boot cache 1.84s 65MB C:/Users/till/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.11.28-19.58.50:847][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/till/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2016.11.28-19.58.50:847][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../UnrealProjects/vrusct1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.11.28-19.58.50:847][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.11.28-19.58.50:847][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../UnrealProjects/vrusct1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.11.28-19.58.50:847][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.11.28-19.58.50:944][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.11.28-19.58.50:956][  0]LogDerivedDataCache: Using Local data cache path C:/Users/till/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.11.28-19.58.58:846][  0]LogInit: Selected Device Profile: [Windows]
+[2016.11.28-19.58.58:848][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.11.28-19.58.58:960][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.11.28-19.59.00:128][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2016.11.28-19.59.00:128][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.11.28-19.59.00:128][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2016.11.28-19.59.07:015][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: vrusct1, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 2498248884
+[2016.11.28-19.59.07:268][  0]LogAssetRegistry: FAssetRegistry took 0.0244 seconds to start up
+[2016.11.28-19.59.07:429][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 1 prioritized culture(s) in 0.054449 seconds
+[2016.11.28-19.59.07:453][  0]LogUObjectArray: 29778 objects as part of root set at end of initial load.
+[2016.11.28-19.59.07:453][  0]LogUObjectAllocator: 6125448 out of 0 bytes used by permanent object pool.
+[2016.11.28-19.59.07:453][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.11.28-19.59.07:496][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.11.28-19.59.16:876][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.11.28-19.59.16:876][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.11.28-19.59.40:536][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2016.11.28-19.59.40:647][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.11.28-19.59.42:794][  0]SourceControl: Info Source control is disabled
+[2016.11.28-19.59.42:799][  0]SourceControl: Info Source control is disabled
+[2016.11.28-19.59.43:003][  0]SourceControl: Info Source control is disabled
+[2016.11.28-19.59.43:048][  0]SourceControl: Info Source control is disabled
+[2016.11.28-19.59.46:090][  0]LogEngine: Initializing Engine...
+[2016.11.28-19.59.46:644][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-93B68B81
+[2016.11.28-19.59.48:273][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.11.28-19.59.48:578][  0]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.28-19.59.48:716][  0]LogInit: FAudioDevice initialized.
+[2016.11.28-19.59.48:778][  0]LogDerivedDataCache: Saved boot cache 0.06s 65MB C:/Users/till/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.11.28-19.59.48:803][  0]LogInit: Texture streaming: Enabled
+[2016.11.28-19.59.49:286][  0]LogInit: Transaction tracking system initialized
+[2016.11.28-19.59.49:660][  0]BlueprintLog: New page: Editor Load
+[2016.11.28-19.59.51:238][  0]LocalizationService: Info Localization service is disabled
+[2016.11.28-19.59.52:484][  0]LogConsoleResponse:Display: 
+[2016.11.28-19.59.58:904][  0]LogFileCache: Scanning file cache for directory 'C:/UnrealProjects/vrusct1/Content/' took 0.01s
+[2016.11.28-19.59.58:904][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.11.28-19.59.58:904][  0]LogCook:Display: Mobile HDR setting 0
+[2016.11.28-20.00.04:244][  0]SourceControl: Info Source control is disabled
+[2016.11.28-20.00.04:269][  0]Cmd: MAP LOAD FILE="../../../../../../UnrealProjects/vrusct1/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.11.28-20.00.04:275][  0]LightingResults: New page: Lighting Build
+[2016.11.28-20.00.04:373][  0]MapCheck: New page: Map Check
+[2016.11.28-20.00.04:373][  0]LightingResults: New page: Lighting Build
+[2016.11.28-20.00.05:731][  0]LogAIModule: Creating AISystem for world StartupMap
+[2016.11.28-20.00.06:594][  0]LogEditorServer: Finished looking for orphan Actors (0.004 secs)
+[2016.11.28-20.00.06:616][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.11.28-20.00.06:677][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 47.574ms to complete.
+[2016.11.28-20.00.06:677][  0]LogFileHelpers: Loading map 'StartupMap' took 2.419
+[2016.11.28-20.00.07:908][  0]LogCollectionManager: Loaded 0 collections in 0.001633 seconds
+[2016.11.28-20.00.08:088][  0]LogFileCache: Scanning file cache for directory 'C:/UnrealProjects/vrusct1/Saved/Collections/' took 0.01s
+[2016.11.28-20.00.08:088][  0]LogFileCache: Scanning file cache for directory 'C:/UnrealProjects/vrusct1/Content/Developers/till/Collections/' took 0.01s
+[2016.11.28-20.00.08:088][  0]LogFileCache: Scanning file cache for directory 'C:/UnrealProjects/vrusct1/Content/Collections/' took 0.01s
+[2016.11.28-20.00.08:088][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2016.11.28-20.00.08:105][  0]LogContentBrowser: Native class hierarchy populated in 0.0143 seconds. Added 2141 classes and 415 folders.
+[2016.11.28-20.00.08:126][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.11.28-20.00.08:127][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.11.28-20.00.08:138][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0008 seconds. Added 12 classes and 0 folders.
+[2016.11.28-20.00.08:147][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2016.11.28-20.00.09:738][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2016.11.28-20.00.09:911][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2016.11.28-20.00.10:721][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.11.28-20.00.10:913][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.11.28-20.00.11:018][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2016.11.28-20.00.11:018][  0]LogLoad: (Engine Initialization) Total time: 94.96 seconds
+[2016.11.28-20.00.11:018][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.38 seconds
+[2016.11.28-20.00.11:029][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2016.11.28-20.00.11:029][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2016.11.28-20.00.11:043][  0]LogOcInput: OculusInput pre-init called
+[2016.11.28-20.00.11:159][  0]LogContentStreaming: Texture pool size now 800 MB
+[2016.11.28-20.00.11:924][  1]LogRenderer: Reallocating scene render targets to support 584x468 (Frame:2).
+[2016.11.28-20.00.12:883][  7]LogAssetRegistry: Asset discovery search completed in 65.6342 seconds
+[2016.11.28-20.00.12:884][  7]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2016.11.28-20.00.12:884][  7]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000122 seconds (updated 0 objects)
+[2016.11.28-20.01.00:781][348]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2016.11.28-20.01.01:498][348]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT)
+[2016.11.28-20.01.01:523][348]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2016.11.28-20.01.01:743][348]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1)
+[2016.11.28-20.01.02:728][348]LogAIModule: Creating AISystem for world MotionControllerMap
+[2016.11.28-20.01.02:822][348]Cmd: MAP LOAD FILE="../../../../../../UnrealProjects/vrusct1/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.11.28-20.01.02:822][348]LightingResults: New page: Lighting Build
+[2016.11.28-20.01.02:823][348]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2016.11.28-20.01.02:883][348]MapCheck: New page: Map Check
+[2016.11.28-20.01.02:883][348]LightingResults: New page: Lighting Build
+[2016.11.28-20.01.03:050][348]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.11.28-20.01.03:149][348]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.11.28-20.01.03:201][348]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 52.132ms to complete.
+[2016.11.28-20.01.03:201][348]LogFileHelpers: Loading map 'MotionControllerMap' took 0.381
+[2016.11.28-20.01.20:383][  5]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2016.11.28-20.01.20:412][  5]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Material_0 for platform PCD3D_SM5, Default Material will be used in game.
+[2016.11.28-20.01.20:413][  5]LogMaterial:Warning: 	Only transparent or postprocess materials can read from scene depth.
+[2016.11.28-21.23.57:112][640]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../UnrealProjectsMaterial/usct-hopp-volumen+stl/fbx/usctMammaPhantom3.fbx)
+[2016.11.28-21.23.57:403][640]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2016.11.28-21.23.57:403][640]LogFbx: ItemName: NodeAttribute, ItemCount : 3
+[2016.11.28-21.23.57:403][640]LogFbx: ItemName: Geometry, ItemCount : 12
+[2016.11.28-21.23.57:403][640]LogFbx: ItemName: Model, ItemCount : 15
+[2016.11.28-21.23.57:403][640]LogFbx: ItemName: Material, ItemCount : 3
+[2016.11.28-21.23.57:403][640]LogFbx: ItemName: Texture, ItemCount : 2
+[2016.11.28-21.23.57:403][640]LogFbx: ItemName: Video, ItemCount : 1
+[2016.11.28-21.23.57:431][640]LogFbx: Loading FBX Scene from ../../../../../../UnrealProjectsMaterial/usct-hopp-volumen+stl/fbx/usctMammaPhantom3.fbx
+[2016.11.28-21.23.57:497][640]LogFbx: FBX Scene Loaded Succesfully
+[2016.11.28-21.24.17:455][640]LogFbx: Loading FBX Scene from ../../../../../../UnrealProjectsMaterial/usct-hopp-volumen+stl/fbx/usctMammaPhantom3.fbx
+[2016.11.28-21.24.17:470][640]LogFbx: FBX Scene Loaded Succesfully
+[2016.11.28-21.24.17:514][640]LogLinker:Warning: Can't find file '/Game/Geometry/MammaPhantom3/MatTexWhite'
+[2016.11.28-21.24.17:514][640]LogLinker:Warning: Can't find file '/Game/Geometry/MammaPhantom3/MatTexWhite'
+[2016.11.28-21.24.17:527][640]LogLinker:Warning: Can't find file '/Game/Geometry/MammaPhantom3/usctMammaPhantom3'
+[2016.11.28-21.24.17:527][640]LogUObjectGlobals:Warning: Failed to find object 'Texture /Game/Geometry/MammaPhantom3/usctMammaPhantom3.usctMammaPhantom3'
+[2016.11.28-21.24.17:528][640]LogStreaming:Warning: Failed to read file 'C:\UnrealProjectsMaterial\usct-hopp-volumen+stl\fbx\usctMammaPhantom3.fbm' error.
+[2016.11.28-21.24.17:528][640]LogStreaming:Warning: Failed to read file '../../../../../../UnrealProjectsMaterial/usct-hopp-volumen+stl/fbx/usctMammaPhantom3.fbm' error.
+[2016.11.28-21.24.17:528][640]LogStreaming:Warning: Failed to read file '../../../../../../UnrealProjectsMaterial/usct-hopp-volumen+stl/fbx/usctMammaPhantom3.fbm' error.
+[2016.11.28-21.24.17:528][640]LogFbxMaterialImport:Warning: Unable to find TEXTure file usctMammaPhantom3.fbm. Tried:
+ - C:\UnrealProjectsMaterial\usct-hopp-volumen+stl\fbx\usctMammaPhantom3.fbm
+ - ../../../../../../UnrealProjectsMaterial/usct-hopp-volumen+stl/fbx/usctMammaPhantom3.fbm
+ - ../../../../../../UnrealProjectsMaterial/usct-hopp-volumen+stl/fbx/usctMammaPhantom3.fbm
+[2016.11.28-21.24.17:531][640]LogMaterial: Missing cached shader map for material MatTexWhite, compiling. 
+[2016.11.28-21.24.17:798][640]LogFbx:Warning: Triangulating static mesh MatBackground
+[2016.11.28-21.24.17:805][640]LogLinker:Warning: Can't find file '/Game/Geometry/MammaPhantom3/MatBackground'
+[2016.11.28-21.24.17:805][640]LogLinker:Warning: Can't find file '/Game/Geometry/MammaPhantom3/MatBackground'
+[2016.11.28-21.24.17:807][640]LogLinker:Warning: Can't find file '/Game/Geometry/MammaPhantom3/usctMammaPhantom3'
+[2016.11.28-21.24.17:807][640]LogUObjectGlobals:Warning: Failed to find object 'Texture /Game/Geometry/MammaPhantom3/usctMammaPhantom3.usctMammaPhantom3'
+[2016.11.28-21.24.17:807][640]LogStreaming:Warning: Failed to read file 'C:\UnrealProjectsMaterial\usct-hopp-volumen+stl\fbx\usctMammaPhantom3.fbm' error.
+[2016.11.28-21.24.17:807][640]LogStreaming:Warning: Failed to read file '../../../../../../UnrealProjectsMaterial/usct-hopp-volumen+stl/fbx/usctMammaPhantom3.fbm' error.
+[2016.11.28-21.24.17:807][640]LogStreaming:Warning: Failed to read file '../../../../../../UnrealProjectsMaterial/usct-hopp-volumen+stl/fbx/usctMammaPhantom3.fbm' error.
+[2016.11.28-21.24.17:807][640]LogFbxMaterialImport:Warning: Unable to find TEXTure file usctMammaPhantom3.fbm. Tried:
+ - C:\UnrealProjectsMaterial\usct-hopp-volumen+stl\fbx\usctMammaPhantom3.fbm
+ - ../../../../../../UnrealProjectsMaterial/usct-hopp-volumen+stl/fbx/usctMammaPhantom3.fbm
+ - ../../../../../../UnrealProjectsMaterial/usct-hopp-volumen+stl/fbx/usctMammaPhantom3.fbm
+[2016.11.28-21.24.17:816][640]LogMaterial: Missing cached shader map for material MatBackground, compiling. 
+[2016.11.28-21.24.17:838][640]LogFbx:Warning: Triangulating static mesh BackgroundPoly.004
+[2016.11.28-21.24.17:843][640]LogFbx:Warning: Triangulating static mesh BackgroundPoly.003
+[2016.11.28-21.24.17:847][640]LogFbx:Warning: Triangulating static mesh BackgroundPoly.002
+[2016.11.28-21.24.17:852][640]LogFbx:Warning: Triangulating static mesh BackgroundPoly.001
+[2016.11.28-21.24.17:856][640]LogFbx:Warning: Triangulating static mesh BackgroundPoly
+[2016.11.28-21.24.17:861][640]LogFbx:Warning: Triangulating static mesh Cube.004
+[2016.11.28-21.24.17:865][640]LogFbx:Warning: Triangulating static mesh Cube.003
+[2016.11.28-21.24.17:870][640]LogFbx:Warning: Triangulating static mesh Cube.002
+[2016.11.28-21.24.17:874][640]LogFbx:Warning: Triangulating static mesh Cube.001
+[2016.11.28-21.24.17:879][640]LogFbx:Warning: Triangulating static mesh Cube
+[2016.11.28-21.24.17:884][640]LogLinker:Warning: Can't find file '/Game/Geometry/MammaPhantom3/MatMamma'
+[2016.11.28-21.24.17:884][640]LogLinker:Warning: Can't find file '/Game/Geometry/MammaPhantom3/MatMamma'
+[2016.11.28-21.24.17:888][640]LogMaterial: Missing cached shader map for material MatMamma, compiling. 
+[2016.11.28-21.24.17:960][640]LogStaticMesh: Building static mesh usctMammaPhantom3...
+[2016.11.28-21.24.18:461][640]LogStaticMesh: Built static mesh [0.50s] /Game/Geometry/MammaPhantom3/usctMammaPhantom3.usctMammaPhantom3
+[2016.11.28-21.24.18:468][640]LogStaticMesh:Warning: usctMammaPhantom3 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2016.11.28-21.24.18:550][640]FBXImport:Warning: Warning Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2016.11.28-21.24.18:551][640]FBXImport:Warning: Warning usctMammaPhantom3 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2016.11.28-21.24.28:739][239]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.012
+[2016.11.28-21.24.28:763][239]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/MammaPhantom3/usctMammaPhantom3] ([1] browsable assets)...
+[2016.11.28-21.24.28:793][239]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/MammaPhantom3/usctMammaPhantom3.usctMammaPhantom3]
+[2016.11.28-21.24.28:793][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/MammaPhantom3/usctMammaPhantom3]
+[2016.11.28-21.24.28:809][239]LogSavePackage: Save=14.26ms
+[2016.11.28-21.24.28:809][239]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/usctMammaPhantom3_Auto1AEE665804C3069262AA7CE904A987998.tmp' to '../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/Geometry/MammaPhantom3/usctMammaPhantom3_Auto1.uasset'
+[2016.11.28-21.24.28:810][239]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/Geometry/MammaPhantom3/usctMammaPhantom3_Auto1.uasset
+[2016.11.28-21.24.28:811][239]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/MammaPhantom3/MatTexWhite] ([1] browsable assets)...
+[2016.11.28-21.24.28:831][239]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Geometry/MammaPhantom3/MatTexWhite.MatTexWhite]
+[2016.11.28-21.24.28:832][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/MammaPhantom3/MatTexWhite]
+[2016.11.28-21.24.28:861][239]LogSavePackage: Save=28.65ms
+[2016.11.28-21.24.28:862][239]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/MatTexWhite_Auto16925BFCC4B7AD56F225C15917365C3DA.tmp' to '../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/Geometry/MammaPhantom3/MatTexWhite_Auto1.uasset'
+[2016.11.28-21.24.28:862][239]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/Geometry/MammaPhantom3/MatTexWhite_Auto1.uasset
+[2016.11.28-21.24.28:863][239]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/MammaPhantom3/MatBackground] ([1] browsable assets)...
+[2016.11.28-21.24.28:883][239]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Geometry/MammaPhantom3/MatBackground.MatBackground]
+[2016.11.28-21.24.28:883][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/MammaPhantom3/MatBackground]
+[2016.11.28-21.24.28:897][239]LogSavePackage: Save=12.48ms
+[2016.11.28-21.24.28:897][239]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/MatBackground_Auto1F47DE0DA48239E57CF32339B623B28C2.tmp' to '../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/Geometry/MammaPhantom3/MatBackground_Auto1.uasset'
+[2016.11.28-21.24.28:909][239]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/Geometry/MammaPhantom3/MatBackground_Auto1.uasset
+[2016.11.28-21.24.28:910][239]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/MammaPhantom3/MatMamma] ([1] browsable assets)...
+[2016.11.28-21.24.28:930][239]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Geometry/MammaPhantom3/MatMamma.MatMamma]
+[2016.11.28-21.24.28:930][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/MammaPhantom3/MatMamma]
+[2016.11.28-21.24.28:946][239]LogSavePackage: Save=14.78ms
+[2016.11.28-21.24.28:947][239]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/MatMamma_Auto1E9E8F5254D25A80698157D8689968AE1.tmp' to '../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/Geometry/MammaPhantom3/MatMamma_Auto1.uasset'
+[2016.11.28-21.24.28:948][239]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/Geometry/MammaPhantom3/MatMamma_Auto1.uasset
+[2016.11.28-21.24.28:948][239]LogFileHelpers: Auto-saving content packages took 0.193
+[2016.11.28-21.25.08:717][928]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../UnrealProjectsMaterial/usct-hopp-volumen+stl/fbx/usctMammaPhantom3.fbx)
+[2016.11.28-21.25.08:725][928]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2016.11.28-21.25.08:726][928]LogFbx: ItemName: NodeAttribute, ItemCount : 3
+[2016.11.28-21.25.08:726][928]LogFbx: ItemName: Geometry, ItemCount : 12
+[2016.11.28-21.25.08:726][928]LogFbx: ItemName: Model, ItemCount : 15
+[2016.11.28-21.25.08:726][928]LogFbx: ItemName: Material, ItemCount : 3
+[2016.11.28-21.25.08:726][928]LogFbx: ItemName: Texture, ItemCount : 2
+[2016.11.28-21.25.08:726][928]LogFbx: ItemName: Video, ItemCount : 1
+[2016.11.28-21.25.08:734][928]LogFbx: Loading FBX Scene from ../../../../../../UnrealProjectsMaterial/usct-hopp-volumen+stl/fbx/usctMammaPhantom3.fbx
+[2016.11.28-21.25.08:750][928]LogFbx: FBX Scene Loaded Succesfully
+[2016.11.28-21.25.58:923][928]LogFbx: Loading FBX Scene from ../../../../../../UnrealProjectsMaterial/usct-hopp-volumen+stl/fbx/usctMammaPhantom3.fbx
+[2016.11.28-21.25.58:940][928]LogFbx: FBX Scene Loaded Succesfully
+[2016.11.28-21.25.58:943][928]LogFbx:Warning: Triangulating static mesh MatBackground
+[2016.11.28-21.25.58:946][928]LogStaticMesh: Building static mesh usctMammaPhantom3_MatBackground...
+[2016.11.28-21.25.58:948][928]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/MammaPhantom3/usctMammaPhantom3_MatBackground.usctMammaPhantom3_MatBackground
+[2016.11.28-21.25.58:950][928]LogFbx:Warning: Triangulating static mesh BackgroundPoly.004
+[2016.11.28-21.25.58:956][928]LogStaticMesh: Building static mesh usctMammaPhantom3_BackgroundPoly_004...
+[2016.11.28-21.25.58:957][928]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly_004.usctMammaPhantom3_BackgroundPoly_004
+[2016.11.28-21.25.58:957][928]LogStaticMesh:Warning: usctMammaPhantom3_BackgroundPoly_004 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2016.11.28-21.25.58:963][928]LogFbx:Warning: Triangulating static mesh BackgroundPoly.003
+[2016.11.28-21.25.58:970][928]LogStaticMesh: Building static mesh usctMammaPhantom3_BackgroundPoly_003...
+[2016.11.28-21.25.58:971][928]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly_003.usctMammaPhantom3_BackgroundPoly_003
+[2016.11.28-21.25.58:971][928]LogStaticMesh:Warning: usctMammaPhantom3_BackgroundPoly_003 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2016.11.28-21.25.58:976][928]LogFbx:Warning: Triangulating static mesh BackgroundPoly.002
+[2016.11.28-21.25.59:009][928]LogStaticMesh: Building static mesh usctMammaPhantom3_BackgroundPoly_002...
+[2016.11.28-21.25.59:010][928]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly_002.usctMammaPhantom3_BackgroundPoly_002
+[2016.11.28-21.25.59:030][928]LogStaticMesh:Warning: usctMammaPhantom3_BackgroundPoly_002 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2016.11.28-21.25.59:060][928]LogFbx:Warning: Triangulating static mesh BackgroundPoly.001
+[2016.11.28-21.25.59:065][928]LogStaticMesh: Building static mesh usctMammaPhantom3_BackgroundPoly_001...
+[2016.11.28-21.25.59:066][928]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly_001.usctMammaPhantom3_BackgroundPoly_001
+[2016.11.28-21.25.59:066][928]LogStaticMesh:Warning: usctMammaPhantom3_BackgroundPoly_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2016.11.28-21.25.59:073][928]LogFbx:Warning: Triangulating static mesh BackgroundPoly
+[2016.11.28-21.25.59:079][928]LogStaticMesh: Building static mesh usctMammaPhantom3_BackgroundPoly...
+[2016.11.28-21.25.59:079][928]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly.usctMammaPhantom3_BackgroundPoly
+[2016.11.28-21.25.59:080][928]LogStaticMesh:Warning: usctMammaPhantom3_BackgroundPoly has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2016.11.28-21.25.59:085][928]LogFbx:Warning: Triangulating static mesh Cube.004
+[2016.11.28-21.25.59:091][928]LogStaticMesh: Building static mesh usctMammaPhantom3_Cube_004...
+[2016.11.28-21.25.59:092][928]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/MammaPhantom3/usctMammaPhantom3_Cube_004.usctMammaPhantom3_Cube_004
+[2016.11.28-21.25.59:092][928]LogStaticMesh:Warning: usctMammaPhantom3_Cube_004 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2016.11.28-21.25.59:097][928]LogFbx:Warning: Triangulating static mesh Cube.003
+[2016.11.28-21.25.59:104][928]LogStaticMesh: Building static mesh usctMammaPhantom3_Cube_003...
+[2016.11.28-21.25.59:105][928]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/MammaPhantom3/usctMammaPhantom3_Cube_003.usctMammaPhantom3_Cube_003
+[2016.11.28-21.25.59:105][928]LogStaticMesh:Warning: usctMammaPhantom3_Cube_003 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2016.11.28-21.25.59:127][928]LogFbx:Warning: Triangulating static mesh Cube.002
+[2016.11.28-21.25.59:132][928]LogStaticMesh: Building static mesh usctMammaPhantom3_Cube_002...
+[2016.11.28-21.25.59:133][928]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/MammaPhantom3/usctMammaPhantom3_Cube_002.usctMammaPhantom3_Cube_002
+[2016.11.28-21.25.59:133][928]LogStaticMesh:Warning: usctMammaPhantom3_Cube_002 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2016.11.28-21.25.59:139][928]LogFbx:Warning: Triangulating static mesh Cube.001
+[2016.11.28-21.25.59:145][928]LogStaticMesh: Building static mesh usctMammaPhantom3_Cube_001...
+[2016.11.28-21.25.59:145][928]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/MammaPhantom3/usctMammaPhantom3_Cube_001.usctMammaPhantom3_Cube_001
+[2016.11.28-21.25.59:146][928]LogStaticMesh:Warning: usctMammaPhantom3_Cube_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2016.11.28-21.25.59:150][928]LogFbx:Warning: Triangulating static mesh Cube
+[2016.11.28-21.25.59:158][928]LogStaticMesh: Building static mesh usctMammaPhantom3_Cube...
+[2016.11.28-21.25.59:158][928]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/MammaPhantom3/usctMammaPhantom3_Cube.usctMammaPhantom3_Cube
+[2016.11.28-21.25.59:159][928]LogStaticMesh:Warning: usctMammaPhantom3_Cube has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2016.11.28-21.25.59:194][928]LogStaticMesh: Building static mesh usctMammaPhantom3_usctMammaPhantom...
+[2016.11.28-21.25.59:225][928]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/MammaPhantom3/usctMammaPhantom3_usctMammaPhantom.usctMammaPhantom3_usctMammaPhantom
+[2016.11.28-21.25.59:272][928]FBXImport:Warning: Warning Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2016.11.28-21.25.59:272][928]FBXImport:Warning: Warning usctMammaPhantom3_BackgroundPoly_004 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2016.11.28-21.25.59:272][928]FBXImport:Warning: Warning usctMammaPhantom3_BackgroundPoly_003 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2016.11.28-21.25.59:273][928]FBXImport:Warning: Warning usctMammaPhantom3_BackgroundPoly_002 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2016.11.28-21.25.59:273][928]FBXImport:Warning: Warning usctMammaPhantom3_BackgroundPoly_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2016.11.28-21.25.59:273][928]FBXImport:Warning: Warning usctMammaPhantom3_BackgroundPoly has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2016.11.28-21.25.59:273][928]FBXImport:Warning: Warning usctMammaPhantom3_Cube_004 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2016.11.28-21.25.59:273][928]FBXImport:Warning: Warning Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2016.11.28-21.25.59:274][928]FBXImport:Warning: Warning usctMammaPhantom3_Cube_003 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2016.11.28-21.25.59:274][928]FBXImport:Warning: Warning Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2016.11.28-21.25.59:274][928]FBXImport:Warning: Warning usctMammaPhantom3_Cube_002 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2016.11.28-21.25.59:274][928]FBXImport:Warning: Warning Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2016.11.28-21.25.59:274][928]FBXImport:Warning: Warning usctMammaPhantom3_Cube_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2016.11.28-21.25.59:274][928]FBXImport:Warning: Warning Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2016.11.28-21.25.59:275][928]FBXImport:Warning: Warning usctMammaPhantom3_Cube has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2016.11.28-21.25.59:275][928]FBXImport:Warning: Warning Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2016.11.28-21.27.05:182][465]LogRenderer: Reallocating scene render targets to support 1200x636 (Frame:52700).
+[2016.11.28-21.28.51:997][844]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel2)
+[2016.11.28-21.28.55:322][170]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2016.11.28-21.29.01:541][774]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube40)
+[2016.11.28-21.29.06:954][304]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube39)
+[2016.11.28-21.29.12:962][872]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube38)
+[2016.11.28-21.29.21:874][631]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube39)
+[2016.11.28-21.29.33:181][699]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube38)
+[2016.11.28-21.29.38:574][113]LogActorFactory: Actor Factory created usctMammaPhantom3_usctMammaPhantom
+[2016.11.28-21.29.39:928][214]LogActorFactory: Actor Factory created usctMammaPhantom3_usctMammaPhantom
+[2016.11.28-21.29.41:235][323]LogActorFactory: Actor Factory created usctMammaPhantom3_usctMammaPhantom
+[2016.11.28-21.30.12:457][400]Cmd: TRANSACTION UNDO
+[2016.11.28-21.30.12:457][400]LogEditorTransaction: Undo Select Brush Surface
+[2016.11.28-21.30.33:136][ 65]LogActorFactory: Actor Factory created usctMammaPhantom3_usctMammaPhantom
+[2016.11.28-21.30.34:027][135]LogActorFactory: Actor Factory created usctMammaPhantom3_usctMammaPhantom
+[2016.11.28-21.30.34:994][222]LogActorFactory: Actor Factory created usctMammaPhantom3_usctMammaPhantom
+[2016.11.28-21.32.11:676][ 20]LogActorFactory: Actor Factory created usctMammaPhantom3_MatBackground
+[2016.11.28-21.32.12:985][116]LogActorFactory: Actor Factory created usctMammaPhantom3_MatBackground
+[2016.11.28-21.32.14:648][244]LogActorFactory: Actor Factory created usctMammaPhantom3_MatBackground
+[2016.11.28-21.32.43:081][389]LogActorFactory: Actor Factory created usctMammaPhantom3_MatBackground
+[2016.11.28-21.32.43:886][448]LogActorFactory: Actor Factory created usctMammaPhantom3_MatBackground
+[2016.11.28-21.32.45:732][590]LogActorFactory: Actor Factory created usctMammaPhantom3_MatBackground
+[2016.11.28-21.32.49:431][880]LogActorFactory: Actor Factory created usctMammaPhantom3_MatBackground
+[2016.11.28-21.33.11:990][642]LogMaterial: Missing cached shader map for material MatBackground, compiling. 
+[2016.11.28-21.33.12:673][642]LogMaterial: Missing cached shader map for material MatBackground, compiling. 
+[2016.11.28-21.33.12:689][642]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.28-21.33.12:740][642]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2016.11.28-21.33.15:215][730]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.11.28-21.33.15:215][730]MaterialEditorStats: Info Vertex shader: 85 instructions
+[2016.11.28-21.33.15:215][730]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.11.28-21.33.24:411][216]LogMaterial: Missing cached shader map for material MatMamma, compiling. 
+[2016.11.28-21.33.24:594][216]LogMaterial: Missing cached shader map for material MatMamma, compiling. 
+[2016.11.28-21.33.24:611][216]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.28-21.33.24:695][216]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2016.11.28-21.33.26:723][309]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.11.28-21.33.26:723][309]MaterialEditorStats: Info Vertex shader: 85 instructions
+[2016.11.28-21.33.26:723][309]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.11.28-21.33.36:684][907]LogMaterial: Missing cached shader map for material MatTexWhite, compiling. 
+[2016.11.28-21.33.36:772][907]LogMaterial: Missing cached shader map for material MatTexWhite, compiling. 
+[2016.11.28-21.33.36:787][907]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.28-21.33.36:813][907]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2016.11.28-21.33.38:557][980]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.11.28-21.33.38:557][980]MaterialEditorStats: Info Vertex shader: 85 instructions
+[2016.11.28-21.33.38:557][980]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.11.28-21.34.36:682][292]LogSavePackage: Save=416.07ms
+[2016.11.28-21.34.36:682][292]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/MotionControllerMap_Auto278BCF481429321588FB6048698CF533D.tmp' to '../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto2.umap'
+[2016.11.28-21.34.36:684][292]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto2.umap
+[2016.11.28-21.34.36:686][292]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.503
+[2016.11.28-21.34.36:686][292]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.503
+[2016.11.28-21.34.36:693][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/MammaPhantom3/usctMammaPhantom3_MatBackground] ([1] browsable assets)...
+[2016.11.28-21.34.36:718][292]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/MammaPhantom3/usctMammaPhantom3_MatBackground.usctMammaPhantom3_MatBackground]
+[2016.11.28-21.34.36:719][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/MammaPhantom3/usctMammaPhantom3_MatBackground]
+[2016.11.28-21.34.36:735][292]LogSavePackage: Save=14.74ms
+[2016.11.28-21.34.36:735][292]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/usctMammaPhantom3_MatBackground_Auto25524FF1145F696ACC44BBAB84C3A454C.tmp' to '../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/Geometry/MammaPhantom3/usctMammaPhantom3_MatBackground_Auto2.uasset'
+[2016.11.28-21.34.36:737][292]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/Geometry/MammaPhantom3/usctMammaPhantom3_MatBackground_Auto2.uasset
+[2016.11.28-21.34.36:737][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly_004] ([1] browsable assets)...
+[2016.11.28-21.34.36:759][292]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly_004.usctMammaPhantom3_BackgroundPoly_004]
+[2016.11.28-21.34.36:760][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly_004]
+[2016.11.28-21.34.36:775][292]LogSavePackage: Save=13.73ms
+[2016.11.28-21.34.36:775][292]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/usctMammaPhantom3_BackgroundPoly_004_Auto288E1BB0C48C0F69DD97771BC789A195D.tmp' to '../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly_004_Auto2.uasset'
+[2016.11.28-21.34.36:776][292]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly_004_Auto2.uasset
+[2016.11.28-21.34.36:777][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly_003] ([1] browsable assets)...
+[2016.11.28-21.34.36:800][292]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly_003.usctMammaPhantom3_BackgroundPoly_003]
+[2016.11.28-21.34.36:800][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly_003]
+[2016.11.28-21.34.36:816][292]LogSavePackage: Save=14.15ms
+[2016.11.28-21.34.36:816][292]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/usctMammaPhantom3_BackgroundPoly_003_Auto2DE974F664EA04A969907E3B437B188DF.tmp' to '../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly_003_Auto2.uasset'
+[2016.11.28-21.34.36:817][292]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly_003_Auto2.uasset
+[2016.11.28-21.34.36:818][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly_002] ([1] browsable assets)...
+[2016.11.28-21.34.36:847][292]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly_002.usctMammaPhantom3_BackgroundPoly_002]
+[2016.11.28-21.34.36:847][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly_002]
+[2016.11.28-21.34.36:863][292]LogSavePackage: Save=15.10ms
+[2016.11.28-21.34.36:863][292]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/usctMammaPhantom3_BackgroundPoly_002_Auto284F90FF7458950F7DC25B885F6C4848A.tmp' to '../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly_002_Auto2.uasset'
+[2016.11.28-21.34.36:865][292]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly_002_Auto2.uasset
+[2016.11.28-21.34.36:865][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly_001] ([1] browsable assets)...
+[2016.11.28-21.34.36:888][292]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly_001.usctMammaPhantom3_BackgroundPoly_001]
+[2016.11.28-21.34.36:888][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly_001]
+[2016.11.28-21.34.36:904][292]LogSavePackage: Save=13.69ms
+[2016.11.28-21.34.36:904][292]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/usctMammaPhantom3_BackgroundPoly_001_Auto27710C90E4A05FACF665506902A2C7D4D.tmp' to '../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly_001_Auto2.uasset'
+[2016.11.28-21.34.36:905][292]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly_001_Auto2.uasset
+[2016.11.28-21.34.36:906][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly] ([1] browsable assets)...
+[2016.11.28-21.34.36:929][292]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly.usctMammaPhantom3_BackgroundPoly]
+[2016.11.28-21.34.36:930][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly]
+[2016.11.28-21.34.36:945][292]LogSavePackage: Save=13.59ms
+[2016.11.28-21.34.36:945][292]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/usctMammaPhantom3_BackgroundPoly_Auto2356476444A3BDD6E1E0C5DA07EF03A22.tmp' to '../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly_Auto2.uasset'
+[2016.11.28-21.34.36:946][292]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly_Auto2.uasset
+[2016.11.28-21.34.36:946][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/MammaPhantom3/usctMammaPhantom3_Cube_004] ([1] browsable assets)...
+[2016.11.28-21.34.36:968][292]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/MammaPhantom3/usctMammaPhantom3_Cube_004.usctMammaPhantom3_Cube_004]
+[2016.11.28-21.34.36:968][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/MammaPhantom3/usctMammaPhantom3_Cube_004]
+[2016.11.28-21.34.36:981][292]LogSavePackage: Save=11.14ms
+[2016.11.28-21.34.36:981][292]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/usctMammaPhantom3_Cube_004_Auto23B3811CC4F1CCE19A6A1EFA85CCC2F7B.tmp' to '../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/Geometry/MammaPhantom3/usctMammaPhantom3_Cube_004_Auto2.uasset'
+[2016.11.28-21.34.36:982][292]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/Geometry/MammaPhantom3/usctMammaPhantom3_Cube_004_Auto2.uasset
+[2016.11.28-21.34.36:982][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/MammaPhantom3/usctMammaPhantom3_Cube_003] ([1] browsable assets)...
+[2016.11.28-21.34.37:005][292]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/MammaPhantom3/usctMammaPhantom3_Cube_003.usctMammaPhantom3_Cube_003]
+[2016.11.28-21.34.37:005][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/MammaPhantom3/usctMammaPhantom3_Cube_003]
+[2016.11.28-21.34.37:017][292]LogSavePackage: Save=11.00ms
+[2016.11.28-21.34.37:017][292]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/usctMammaPhantom3_Cube_003_Auto267D2671D471FC20BD0EBC6924656BDE2.tmp' to '../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/Geometry/MammaPhantom3/usctMammaPhantom3_Cube_003_Auto2.uasset'
+[2016.11.28-21.34.37:018][292]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/Geometry/MammaPhantom3/usctMammaPhantom3_Cube_003_Auto2.uasset
+[2016.11.28-21.34.37:019][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/MammaPhantom3/usctMammaPhantom3_Cube_002] ([1] browsable assets)...
+[2016.11.28-21.34.37:041][292]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/MammaPhantom3/usctMammaPhantom3_Cube_002.usctMammaPhantom3_Cube_002]
+[2016.11.28-21.34.37:042][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/MammaPhantom3/usctMammaPhantom3_Cube_002]
+[2016.11.28-21.34.37:054][292]LogSavePackage: Save=10.96ms
+[2016.11.28-21.34.37:054][292]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/usctMammaPhantom3_Cube_002_Auto25149A2F043AF15E734FAEF9CBFFFD178.tmp' to '../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/Geometry/MammaPhantom3/usctMammaPhantom3_Cube_002_Auto2.uasset'
+[2016.11.28-21.34.37:055][292]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/Geometry/MammaPhantom3/usctMammaPhantom3_Cube_002_Auto2.uasset
+[2016.11.28-21.34.37:055][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/MammaPhantom3/usctMammaPhantom3_Cube_001] ([1] browsable assets)...
+[2016.11.28-21.34.37:077][292]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/MammaPhantom3/usctMammaPhantom3_Cube_001.usctMammaPhantom3_Cube_001]
+[2016.11.28-21.34.37:077][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/MammaPhantom3/usctMammaPhantom3_Cube_001]
+[2016.11.28-21.34.37:091][292]LogSavePackage: Save=12.13ms
+[2016.11.28-21.34.37:091][292]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/usctMammaPhantom3_Cube_001_Auto22CE8ECA640FE9F40B19EAE994E2579A3.tmp' to '../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/Geometry/MammaPhantom3/usctMammaPhantom3_Cube_001_Auto2.uasset'
+[2016.11.28-21.34.37:092][292]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/Geometry/MammaPhantom3/usctMammaPhantom3_Cube_001_Auto2.uasset
+[2016.11.28-21.34.37:092][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/MammaPhantom3/usctMammaPhantom3_Cube] ([1] browsable assets)...
+[2016.11.28-21.34.37:114][292]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/MammaPhantom3/usctMammaPhantom3_Cube.usctMammaPhantom3_Cube]
+[2016.11.28-21.34.37:114][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/MammaPhantom3/usctMammaPhantom3_Cube]
+[2016.11.28-21.34.37:127][292]LogSavePackage: Save=11.28ms
+[2016.11.28-21.34.37:127][292]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/usctMammaPhantom3_Cube_Auto2D58DCD944D95355834116EA69FD7DAC5.tmp' to '../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/Geometry/MammaPhantom3/usctMammaPhantom3_Cube_Auto2.uasset'
+[2016.11.28-21.34.37:128][292]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/Geometry/MammaPhantom3/usctMammaPhantom3_Cube_Auto2.uasset
+[2016.11.28-21.34.37:129][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/MammaPhantom3/usctMammaPhantom3_usctMammaPhantom] ([1] browsable assets)...
+[2016.11.28-21.34.37:152][292]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/MammaPhantom3/usctMammaPhantom3_usctMammaPhantom.usctMammaPhantom3_usctMammaPhantom]
+[2016.11.28-21.34.37:153][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/MammaPhantom3/usctMammaPhantom3_usctMammaPhantom]
+[2016.11.28-21.34.37:169][292]LogSavePackage: Save=14.72ms
+[2016.11.28-21.34.37:169][292]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/usctMammaPhantom3_usctMammaPhantom_Auto2AB8B26824A7B88D4BE316DB944E915FD.tmp' to '../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/Geometry/MammaPhantom3/usctMammaPhantom3_usctMammaPhantom_Auto2.uasset'
+[2016.11.28-21.34.37:170][292]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/Geometry/MammaPhantom3/usctMammaPhantom3_usctMammaPhantom_Auto2.uasset
+[2016.11.28-21.34.37:170][292]LogFileHelpers: Auto-saving content packages took 0.478
+[2016.11.28-21.35.07:252][377]LogActorFactory: Actor Factory created usctMammaPhantom3_BackgroundPoly
+[2016.11.28-21.35.08:665][479]LogActorFactory: Actor Factory created usctMammaPhantom3_BackgroundPoly
+[2016.11.28-21.35.09:575][545]LogActorFactory: Actor Factory created usctMammaPhantom3_BackgroundPoly
+[2016.11.28-21.35.10:678][629]LogActorFactory: Actor Factory created usctMammaPhantom3_BackgroundPoly
+[2016.11.28-21.35.36:336][560]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (usctMammaPhantom3_usctMammaPhantom)
+[2016.11.28-21.35.47:592][473]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (usctMammaPhantom3_BackgroundPoly)
+[2016.11.28-21.36.10:163][289]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube8)
+[2016.11.28-21.36.12:013][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (usctMammaPhantom3_usctMammaPhantom)
+[2016.11.28-21.36.14:962][681]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (usctMammaPhantom3_BackgroundPoly)
+[2016.11.28-21.37.55:863][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (usctMammaPhantom3_usctMammaPhantom)
+[2016.11.28-21.37.56:989][285]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (usctMammaPhantom3_BackgroundPoly)
+[2016.11.28-21.38.06:077][798]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (usctMammaPhantom3_usctMammaPhantom)
+[2016.11.28-21.38.08:762][ 19]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (usctMammaPhantom3_BackgroundPoly)
+[2016.11.28-21.38.10:757][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (usctMammaPhantom3_usctMammaPhantom)
+[2016.11.28-21.38.18:078][614]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (usctMammaPhantom3_BackgroundPoly)
+[2016.11.28-21.38.20:270][766]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (usctMammaPhantom3_usctMammaPhantom)
+[2016.11.28-21.39.12:162][ 65]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube26)
+[2016.11.28-21.39.14:737][273]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube37)
+[2016.11.28-21.39.16:637][425]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube36)
+[2016.11.28-21.39.17:842][521]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (BP_PickupCube)
+[2016.11.28-21.39.18:992][612]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube32)
+[2016.11.28-21.39.19:743][665]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube34)
+[2016.11.28-21.39.20:484][718]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube33)
+[2016.11.28-21.39.21:450][793]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube28)
+[2016.11.28-21.39.22:258][855]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube29)
+[2016.11.28-21.39.23:089][919]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube31)
+[2016.11.28-21.39.24:150][  2]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube30)
+[2016.11.28-21.39.25:724][127]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube23)
+[2016.11.28-21.39.26:575][192]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube24)
+[2016.11.28-21.39.27:423][257]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube25)
+[2016.11.28-21.39.28:287][323]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube27)
+[2016.11.28-21.39.29:460][413]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube26)
+[2016.11.28-21.39.56:499][599]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (usctMammaPhantom3_usctMammaPhantom)
+[2016.11.28-21.39.57:932][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (usctMammaPhantom3_BackgroundPoly)
+[2016.11.28-21.40.13:217][472]LogSavePackage: Save=353.50ms
+[2016.11.28-21.40.13:217][472]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/MotionControllerMap6558FB5149176E682B3CDAB6455A5865.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2016.11.28-21.40.13:219][472]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2016.11.28-21.40.13:240][472]LogFileHelpers: Saving map 'MotionControllerMap' took 0.462
+[2016.11.28-21.40.13:270][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/MammaPhantom3/usctMammaPhantom3" FILE="../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/usctMammaPhantom3.uasset" SILENT=true
+[2016.11.28-21.40.13:285][472]LogSavePackage: Save=13.63ms
+[2016.11.28-21.40.13:285][472]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/usctMammaPhantom3625C440549C2CB10EF8504B55FDA82AE.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/usctMammaPhantom3.uasset'
+[2016.11.28-21.40.13:287][472]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/usctMammaPhantom3.uasset
+[2016.11.28-21.40.13:311][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/MammaPhantom3/MatTexWhite" FILE="../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/MatTexWhite.uasset" SILENT=true
+[2016.11.28-21.40.13:325][472]LogSavePackage: Save=12.28ms
+[2016.11.28-21.40.13:325][472]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/MatTexWhiteAC0E4CDB4F79ABB2BF55C684D539D4E2.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/MatTexWhite.uasset'
+[2016.11.28-21.40.13:327][472]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/MatTexWhite.uasset
+[2016.11.28-21.40.13:372][472]LogSavePackage: Save=13.15ms
+[2016.11.28-21.40.13:372][472]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/usctMammaPhantom3_MatBackgroundDB46DEEC43CEA2D7F285B496093194C9.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/usctMammaPhantom3_MatBackground.uasset'
+[2016.11.28-21.40.13:374][472]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/usctMammaPhantom3_MatBackground.uasset
+[2016.11.28-21.40.13:401][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/MammaPhantom3/MatBackground" FILE="../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/MatBackground.uasset" SILENT=true
+[2016.11.28-21.40.13:415][472]LogSavePackage: Save=12.51ms
+[2016.11.28-21.40.13:415][472]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/MatBackground4455D81B4E71E78BABED338FE77FF1E3.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/MatBackground.uasset'
+[2016.11.28-21.40.13:417][472]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/MatBackground.uasset
+[2016.11.28-21.40.13:441][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/MammaPhantom3/MatMamma" FILE="../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/MatMamma.uasset" SILENT=true
+[2016.11.28-21.40.13:456][472]LogSavePackage: Save=13.79ms
+[2016.11.28-21.40.13:456][472]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/MatMammaA265724A4223F7598AF25784D9451BCB.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/MatMamma.uasset'
+[2016.11.28-21.40.13:458][472]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/MatMamma.uasset
+[2016.11.28-21.40.13:505][472]LogSavePackage: Save=13.27ms
+[2016.11.28-21.40.13:505][472]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/usctMammaPhantom3_BackgroundPoly_004EED2C565458FA9646FEA9899973634ED.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly_004.uasset'
+[2016.11.28-21.40.13:507][472]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly_004.uasset
+[2016.11.28-21.40.13:545][472]LogSavePackage: Save=13.49ms
+[2016.11.28-21.40.13:545][472]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/usctMammaPhantom3_BackgroundPoly_0036FCF29E94EB596F7D9E42491F5AEA62D.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly_003.uasset'
+[2016.11.28-21.40.13:547][472]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly_003.uasset
+[2016.11.28-21.40.13:593][472]LogSavePackage: Save=13.32ms
+[2016.11.28-21.40.13:593][472]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/usctMammaPhantom3_BackgroundPoly_00221BCD07F4513EADC994BB4B273EC4875.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly_002.uasset'
+[2016.11.28-21.40.13:595][472]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly_002.uasset
+[2016.11.28-21.40.13:642][472]LogSavePackage: Save=13.33ms
+[2016.11.28-21.40.13:642][472]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/usctMammaPhantom3_BackgroundPoly_00182A6909C4E41AF3F90C8A5978022B175.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly_001.uasset'
+[2016.11.28-21.40.13:643][472]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly_001.uasset
+[2016.11.28-21.40.13:682][472]LogSavePackage: Save=13.82ms
+[2016.11.28-21.40.13:682][472]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/usctMammaPhantom3_BackgroundPoly6F0DB89142686FD1498CADA94AE5FA7C.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly.uasset'
+[2016.11.28-21.40.13:684][472]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/usctMammaPhantom3_BackgroundPoly.uasset
+[2016.11.28-21.40.13:727][472]LogSavePackage: Save=10.70ms
+[2016.11.28-21.40.13:727][472]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/usctMammaPhantom3_Cube_0046A354D824CB043E8482FD59433022A3B.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/usctMammaPhantom3_Cube_004.uasset'
+[2016.11.28-21.40.13:729][472]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/usctMammaPhantom3_Cube_004.uasset
+[2016.11.28-21.40.13:764][472]LogSavePackage: Save=10.73ms
+[2016.11.28-21.40.13:764][472]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/usctMammaPhantom3_Cube_00314CCCE7F40BDF9419EBB648DCE21FF7C.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/usctMammaPhantom3_Cube_003.uasset'
+[2016.11.28-21.40.13:766][472]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/usctMammaPhantom3_Cube_003.uasset
+[2016.11.28-21.40.13:800][472]LogSavePackage: Save=10.71ms
+[2016.11.28-21.40.13:800][472]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/usctMammaPhantom3_Cube_002FF38358A41567725A61D7FBC84F0B8CD.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/usctMammaPhantom3_Cube_002.uasset'
+[2016.11.28-21.40.13:802][472]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/usctMammaPhantom3_Cube_002.uasset
+[2016.11.28-21.40.13:838][472]LogSavePackage: Save=10.85ms
+[2016.11.28-21.40.13:838][472]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/usctMammaPhantom3_Cube_001BDC3C2B64A39CB4770F293BAF7972FE1.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/usctMammaPhantom3_Cube_001.uasset'
+[2016.11.28-21.40.13:840][472]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/usctMammaPhantom3_Cube_001.uasset
+[2016.11.28-21.40.13:865][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/MammaPhantom3/usctMammaPhantom3_Cube" FILE="../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/usctMammaPhantom3_Cube.uasset" SILENT=true
+[2016.11.28-21.40.13:877][472]LogSavePackage: Save=10.85ms
+[2016.11.28-21.40.13:877][472]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/usctMammaPhantom3_Cube11A682424A2C3845C63A969DBA95ACFA.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/usctMammaPhantom3_Cube.uasset'
+[2016.11.28-21.40.13:878][472]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/usctMammaPhantom3_Cube.uasset
+[2016.11.28-21.40.13:926][472]LogSavePackage: Save=14.59ms
+[2016.11.28-21.40.13:926][472]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/usctMammaPhantom3_usctMammaPhantom64DCFA2B4235F954CE0FAF86238C6D82.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/usctMammaPhantom3_usctMammaPhantom.uasset'
+[2016.11.28-21.40.13:928][472]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/usctMammaPhantom3_usctMammaPhantom.uasset
+[2016.11.28-21.40.38:669][281]LogActorFactory: Actor Factory created usctMammaPhantom3_BackgroundPoly_001
+[2016.11.28-21.40.41:466][487]LogActorFactory: Actor Factory created usctMammaPhantom3_BackgroundPoly_001
+[2016.11.28-21.40.43:875][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (usctMammaPhantom3_BackgroundPoly)
+[2016.11.28-21.40.48:003][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (usctMammaPhantom3_BackgroundPoly_001)
+[2016.11.28-21.40.52:752][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (usctMammaPhantom3_BackgroundPoly)
+[2016.11.28-21.40.55:202][467]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (usctMammaPhantom3_BackgroundPoly_001)
+[2016.11.28-21.41.03:027][902]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (usctMammaPhantom3_BackgroundPoly)
+[2016.11.28-21.41.05:510][107]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (usctMammaPhantom3_BackgroundPoly_001)
+[2016.11.28-21.41.20:482][ 98]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (usctMammaPhantom3_BackgroundPoly)
+[2016.11.28-21.41.26:362][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (usctMammaPhantom3_BackgroundPoly_001)
+[2016.11.28-21.41.36:580][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (usctMammaPhantom3_BackgroundPoly)
+[2016.11.28-21.41.40:041][459]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (usctMammaPhantom3_BackgroundPoly_001)
+[2016.11.28-21.41.44:933][865]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (usctMammaPhantom3_BackgroundPoly)
+[2016.11.28-21.41.47:130][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (usctMammaPhantom3_BackgroundPoly_001)
+[2016.11.28-21.42.06:476][488]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (usctMammaPhantom3_BackgroundPoly)
+[2016.11.28-21.42.18:216][319]LogSavePackage: Save=333.85ms
+[2016.11.28-21.42.18:216][319]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/MotionControllerMap001D432F4BF811C26B9A579BAAB03788.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2016.11.28-21.42.18:218][319]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2016.11.28-21.42.18:239][319]LogFileHelpers: Saving map 'MotionControllerMap' took 0.425
+[2016.11.28-21.42.25:140][450]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\UnrealProjectsMaterial\usct-hopp-volumen+stl\fbx\usctMammaPhantom3.fbm\usct_mammaPhantom_s032.png)
+[2016.11.28-21.42.25:165][450]LogTexture:Display: Building textures: usct_mammaPhantom_s032 (AutoDXT)
+[2016.11.28-21.42.37:442][738]LogMaterial: Missing cached shader map for material usct_mammaPhantom_s032_Mat, compiling. 
+[2016.11.28-21.43.46:750][456]LogMaterial: Missing cached shader map for material T_Wood_Oak_Mat, compiling. 
+[2016.11.28-21.43.46:779][456]LogMaterial:Warning: Material /Game/StarterContent/Textures/T_Wood_Oak_Mat.T_Wood_Oak_Mat needed to have new flag set bUsedWithStaticLighting !
+[2016.11.28-21.43.46:782][456]LogMaterial: Missing cached shader map for material T_Wood_Oak_Mat, compiling. 
+[2016.11.28-21.43.46:824][456]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.28-21.43.54:095][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube9)
+[2016.11.28-21.45.14:947][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Mamma32" FILE="../../../../../../UnrealProjects/vrusct1/Content/Geometry/Mamma32.uasset" SILENT=true
+[2016.11.28-21.45.14:962][600]LogSavePackage: Save=13.80ms
+[2016.11.28-21.45.14:962][600]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/Mamma32F5D646A74E03B6C85168B099FA7EE686.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/Geometry/Mamma32.uasset'
+[2016.11.28-21.45.14:964][600]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/Geometry/Mamma32.uasset
+[2016.11.28-21.45.18:810][801]LogMaterial: Missing cached shader map for material Mamma32, compiling. 
+[2016.11.28-21.45.18:898][801]LogMaterial: Missing cached shader map for material Mamma32, compiling. 
+[2016.11.28-21.45.18:913][801]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.28-21.45.21:469][916]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.11.28-21.45.21:469][916]MaterialEditorStats: Info Vertex shader: 85 instructions
+[2016.11.28-21.45.21:470][916]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.11.28-21.46.37:021][847]LogTexture:Display: Building textures: T_Bush_D (AutoDXT)
+[2016.11.28-21.46.53:193][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/T_Bush_D2" FILE="../../../../../../UnrealProjects/vrusct1/Content/Geometry/T_Bush_D2.uasset" SILENT=true
+[2016.11.28-21.46.53:217][554]LogSavePackage: Save=23.23ms
+[2016.11.28-21.46.53:218][554]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/T_Bush_D2ED95729049F545CC614F3D9438FF6E6E.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/Geometry/T_Bush_D2.uasset'
+[2016.11.28-21.46.53:219][554]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/Geometry/T_Bush_D2.uasset
+[2016.11.28-21.46.55:801][649]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2016.11.28-21.47.47:682][468]LogEditorFactories: Performing atomic reimport of [C:/UnrealProjectsMaterial/usct-hopp-volumen+stl/fbx/usctMammaPhantom3.fbm/usct_mammaPhantom_s032.png]
+[2016.11.28-21.47.47:682][468]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/UnrealProjectsMaterial/usct-hopp-volumen+stl/fbx/usctMammaPhantom3.fbm/usct_mammaPhantom_s032.png)
+[2016.11.28-21.47.47:694][468]LogTexture:Display: Building textures: T_Bush_D2 (BGRA8)
+[2016.11.28-21.47.47:801][468]LogTexture:Display: Building textures: T_Bush_D2 (BGRA8)
+[2016.11.28-21.47.47:814][468]LogEditorFactories: -- imported successfully
+[2016.11.28-21.48.03:527][259]LogSavePackage: Save=351.04ms
+[2016.11.28-21.48.03:528][259]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/MotionControllerMap82E8D5E849813CC180019F969E6D26AB.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2016.11.28-21.48.03:530][259]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2016.11.28-21.48.03:550][259]LogFileHelpers: Saving map 'MotionControllerMap' took 0.449
+[2016.11.28-21.48.03:564][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/MammaPhantom3/usct_mammaPhantom_s032" FILE="../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/usct_mammaPhantom_s032.uasset" SILENT=true
+[2016.11.28-21.48.03:576][259]LogSavePackage: Save=10.14ms
+[2016.11.28-21.48.03:576][259]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/usct_mammaPhantom_s0328AF43AF64314884D062AAFB275401715.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/usct_mammaPhantom_s032.uasset'
+[2016.11.28-21.48.03:577][259]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/usct_mammaPhantom_s032.uasset
+[2016.11.28-21.48.03:616][259]LogSavePackage: Save=14.34ms
+[2016.11.28-21.48.03:616][259]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/usct_mammaPhantom_s032_Mat799114314A4D29882A0992A08228B353.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/usct_mammaPhantom_s032_Mat.uasset'
+[2016.11.28-21.48.03:618][259]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/Geometry/MammaPhantom3/usct_mammaPhantom_s032_Mat.uasset
+[2016.11.28-21.48.03:650][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Textures/T_Wood_Oak_Mat" FILE="../../../../../../UnrealProjects/vrusct1/Content/StarterContent/Textures/T_Wood_Oak_Mat.uasset" SILENT=true
+[2016.11.28-21.48.03:688][259]LogSavePackage: Save=35.90ms
+[2016.11.28-21.48.03:688][259]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/T_Wood_Oak_MatBE0618F7494EA7CB89FBDEB5EF265856.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/StarterContent/Textures/T_Wood_Oak_Mat.uasset'
+[2016.11.28-21.48.03:689][259]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/StarterContent/Textures/T_Wood_Oak_Mat.uasset
+[2016.11.28-21.48.03:693][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Textures/Mamma32" FILE="../../../../../../UnrealProjects/vrusct1/Content/StarterContent/Textures/Mamma32.uasset" SILENT=true
+[2016.11.28-21.48.03:695][259]LogSavePackage: Save=1.05ms
+[2016.11.28-21.48.03:695][259]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/Mamma32E76DFE0D4D3983032851A4B1AA9CA510.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/StarterContent/Textures/Mamma32.uasset'
+[2016.11.28-21.48.03:697][259]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/StarterContent/Textures/Mamma32.uasset
+[2016.11.28-21.48.03:700][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Textures/T_Bush_D2" FILE="../../../../../../UnrealProjects/vrusct1/Content/StarterContent/Textures/T_Bush_D2.uasset" SILENT=true
+[2016.11.28-21.48.03:702][259]LogSavePackage: Save=1.04ms
+[2016.11.28-21.48.03:702][259]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/T_Bush_D21817A7434FAA33842D1B698610D29479.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/StarterContent/Textures/T_Bush_D2.uasset'
+[2016.11.28-21.48.03:703][259]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/StarterContent/Textures/T_Bush_D2.uasset
+[2016.11.28-21.48.03:719][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/T_Bush_D2" FILE="../../../../../../UnrealProjects/vrusct1/Content/Geometry/T_Bush_D2.uasset" SILENT=true
+[2016.11.28-21.48.03:723][259]LogTexture:Display: Building textures: T_Bush_D2 (AutoDXT)
+[2016.11.28-21.48.03:758][259]LogSavePackage: Save=36.18ms
+[2016.11.28-21.48.03:758][259]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/T_Bush_D2ED83EAB84D3DC42619248997B903C02B.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/Geometry/T_Bush_D2.uasset'
+[2016.11.28-21.48.03:760][259]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/Geometry/T_Bush_D2.uasset
+[2016.11.28-21.48.11:798][777]LogMaterial: Missing cached shader map for material T_Bush_D2_Mat, compiling. 
+[2016.11.28-21.48.24:022][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (usctMammaPhantom3_BackgroundPoly_001)
+[2016.11.28-21.48.49:322][414]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (usctMammaPhantom3_BackgroundPoly_001)
+[2016.11.28-21.49.45:424][584]LogSavePackage: Save=333.34ms
+[2016.11.28-21.49.45:424][584]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/MotionControllerMapBAD440CC4696F9532B9867A141E006AC.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2016.11.28-21.49.45:426][584]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2016.11.28-21.49.45:447][584]LogFileHelpers: Saving map 'MotionControllerMap' took 0.429
+[2016.11.28-21.49.45:470][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/T_Bush_D2_Mat" FILE="../../../../../../UnrealProjects/vrusct1/Content/Geometry/T_Bush_D2_Mat.uasset" SILENT=true
+[2016.11.28-21.49.45:485][584]LogSavePackage: Save=14.36ms
+[2016.11.28-21.49.45:485][584]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/T_Bush_D2_MatD33F99EB418FC2BCAE788B947DDD0702.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/Geometry/T_Bush_D2_Mat.uasset'
+[2016.11.28-21.49.45:487][584]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/Geometry/T_Bush_D2_Mat.uasset
+[2016.11.28-21.53.29:749][510]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../UnrealProjectsMaterial/usct-hopp-volumen+stl/fbx/usctMammaPhantom3.fbm/usct_mammaPhantom_s032.png)
+[2016.11.28-21.53.29:751][510]LogTexture:Display: Building textures: usct_mammaPhantom_s032 (AutoDXT)
+[2016.11.28-21.55.09:462][548]LogMaterial: Missing cached shader map for material MatUsct32, compiling. 
+[2016.11.28-21.55.12:441][721]LogMaterial: Missing cached shader map for material MatUsct32, compiling. 
+[2016.11.28-21.55.12:515][721]LogMaterial: Missing cached shader map for material MatUsct32, compiling. 
+[2016.11.28-21.55.12:532][721]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.28-21.55.12:555][721]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.11.28-21.55.15:116][815]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 23 instructions
+[2016.11.28-21.55.15:116][815]MaterialEditorStats: Info Vertex shader: 87 instructions
+[2016.11.28-21.55.15:116][815]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.11.28-21.56.17:720][502]LogMaterial: Missing cached shader map for material MatUsct32, compiling. 
+[2016.11.28-21.56.17:736][502]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.28-21.56.17:764][502]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.11.28-21.56.20:233][603]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 24 instructions
+[2016.11.28-21.56.20:233][603]MaterialEditorStats: Info Vertex shader: 87 instructions
+[2016.11.28-21.56.20:233][603]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.11.28-21.57.09:001][289]LogMaterialEditor: Saving and Compiling material MatUsct32
+[2016.11.28-21.57.10:008][289]LogMaterial: Missing cached shader map for material MatUsct32, compiling. 
+[2016.11.28-21.57.10:038][289]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.28-21.57.10:083][289]LogMaterial: Missing cached shader map for material MatUsct32, compiling. 
+[2016.11.28-21.57.10:116][289]LogMaterial: Missing cached shader map for material MatUsct32, compiling. 
+[2016.11.28-21.57.10:139][289]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.28-21.57.13:731][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/MatUsct32" FILE="../../../../../../UnrealProjects/vrusct1/Content/Geometry/MatUsct32.uasset" SILENT=true
+[2016.11.28-21.57.13:748][289]LogSavePackage: Save=15.02ms
+[2016.11.28-21.57.13:748][289]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/MatUsct32B4227E0E4069279D0A6C009FF5B51BC3.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/Geometry/MatUsct32.uasset'
+[2016.11.28-21.57.13:749][289]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/Geometry/MatUsct32.uasset
+[2016.11.28-21.57.13:754][289]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 100 instructions
+[2016.11.28-21.57.13:754][289]MaterialEditorStats: Info Vertex shader: 87 instructions
+[2016.11.28-21.57.13:754][289]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.11.28-21.59.45:155][552]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.014
+[2016.11.28-21.59.45:156][552]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Geometry/BP_TexSh32] ([1] browsable assets)...
+[2016.11.28-21.59.45:157][552]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/BP_TexSh32]
+[2016.11.28-21.59.45:157][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/BP_TexSh32" FILE="../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/Geometry/BP_TexSh32_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2016.11.28-21.59.45:178][552]LogSavePackage: Save=19.58ms
+[2016.11.28-21.59.45:178][552]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/BP_TexSh32_Auto3F55DB98E420837DFB72B73B65A4C5B1B.tmp' to '../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/Geometry/BP_TexSh32_Auto3.uasset'
+[2016.11.28-21.59.45:179][552]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/Geometry/BP_TexSh32_Auto3.uasset
+[2016.11.28-21.59.45:179][552]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/usct_mammaPhantom_s032] ([1] browsable assets)...
+[2016.11.28-21.59.45:192][552]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/usct_mammaPhantom_s032.usct_mammaPhantom_s032]
+[2016.11.28-21.59.45:192][552]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/usct_mammaPhantom_s032]
+[2016.11.28-21.59.45:201][552]LogSavePackage: Save=7.95ms
+[2016.11.28-21.59.45:201][552]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/usct_mammaPhantom_s032_Auto3B5EF20BD457B1668562C21A11EBF3A63.tmp' to '../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/Geometry/usct_mammaPhantom_s032_Auto3.uasset'
+[2016.11.28-21.59.45:203][552]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/Geometry/usct_mammaPhantom_s032_Auto3.uasset
+[2016.11.28-21.59.45:203][552]LogFileHelpers: Auto-saving content packages took 0.047
+[2016.11.28-22.08.11:620][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/EditorPlane2" FILE="../../../../../../UnrealProjects/vrusct1/Content/Geometry/EditorPlane2.uasset" SILENT=true
+[2016.11.28-22.08.11:635][139]LogSavePackage: Save=13.02ms
+[2016.11.28-22.08.11:635][139]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/EditorPlane21497830F4FB170C1818183B1D57271E3.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/Geometry/EditorPlane2.uasset'
+[2016.11.28-22.08.11:636][139]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/Geometry/EditorPlane2.uasset
+[2016.11.28-22.08.37:172][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (usctMammaPhantom3_BackgroundPoly)
+[2016.11.28-22.08.37:987][700]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (usctMammaPhantom3_BackgroundPoly_001)
+[2016.11.28-22.08.57:132][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (usctMammaPhantom3_BackgroundPoly_001)
+[2016.11.28-22.08.57:231][863]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2016.11.28-22.08.59:159][976]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2016.11.28-22.09.00:073][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube10)
+[2016.11.28-22.09.00:981][ 78]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (usctMammaPhantom3_BackgroundPoly_001)
+[2016.11.28-22.09.02:158][146]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (usctMammaPhantom3_BackgroundPoly_001)
+[2016.11.28-22.10.50:706][711]LogSavePackage: Save=342.98ms
+[2016.11.28-22.10.50:706][711]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/MotionControllerMap_Auto44F3F6A774376EF417AC88EAE4757A1CE.tmp' to '../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto4.umap'
+[2016.11.28-22.10.50:707][711]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto4.umap
+[2016.11.28-22.10.50:709][711]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.368
+[2016.11.28-22.10.50:709][711]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.368
+[2016.11.28-22.10.50:712][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EditorMeshes/EditorPlane2" FILE="../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Engine/EditorMeshes/EditorPlane2_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2016.11.28-22.10.50:714][711]LogSavePackage: Save=1.00ms
+[2016.11.28-22.10.50:714][711]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/EditorPlane2_Auto45B98463C4208BFEECA37F689302641E3.tmp' to '../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Engine/EditorMeshes/EditorPlane2_Auto4.uasset'
+[2016.11.28-22.10.50:715][711]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Saved/Autosaves/Engine/EditorMeshes/EditorPlane2_Auto4.uasset
+[2016.11.28-22.10.50:715][711]LogFileHelpers: Auto-saving content packages took 0.004
+[2016.11.28-22.14.13:850][292]LogMaterial: Missing cached shader map for material MatUsct32, compiling. 
+[2016.11.28-22.14.13:888][292]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.28-22.14.13:916][292]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.11.28-22.14.17:421][400]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 24 instructions
+[2016.11.28-22.14.17:421][400]MaterialEditorStats: Info Vertex shader: 89 instructions
+[2016.11.28-22.14.17:421][400]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.11.28-22.14.21:048][595]LogMaterial: Missing cached shader map for material MatUsct32, compiling. 
+[2016.11.28-22.14.21:064][595]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.28-22.14.23:090][680]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 24 instructions
+[2016.11.28-22.14.23:091][680]MaterialEditorStats: Info Vertex shader: 87 instructions
+[2016.11.28-22.14.23:091][680]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.11.28-22.14.26:329][824]LogMaterialEditor: Applying material MatUsct32
+[2016.11.28-22.14.27:235][824]LogMaterial: Missing cached shader map for material MatUsct32, compiling. 
+[2016.11.28-22.14.27:265][824]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.28-22.14.27:285][824]LogMaterial: Missing cached shader map for material MatUsct32, compiling. 
+[2016.11.28-22.14.27:316][824]LogMaterial: Missing cached shader map for material MatUsct32, compiling. 
+[2016.11.28-22.14.27:340][824]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.28-22.14.32:725][ 56]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 100 instructions
+[2016.11.28-22.14.32:725][ 56]MaterialEditorStats: Info Vertex shader: 87 instructions
+[2016.11.28-22.14.32:725][ 56]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.11.28-22.17.57:289][474]LogSavePackage: Save=348.07ms
+[2016.11.28-22.17.57:290][474]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/MotionControllerMapB2FA94D5422F0108CCC466AB7BA2D161.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2016.11.28-22.17.57:292][474]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2016.11.28-22.17.57:313][474]LogFileHelpers: Saving map 'MotionControllerMap' took 0.448
+[2016.11.28-22.17.57:316][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/BP_TexSh32" FILE="../../../../../../UnrealProjects/vrusct1/Content/Geometry/BP_TexSh32.uasset" SILENT=true
+[2016.11.28-22.17.57:326][474]LogSavePackage: Save=9.24ms
+[2016.11.28-22.17.57:327][474]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/BP_TexSh32211FC01D46DF057705CB02BC8E2B36B9.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/Geometry/BP_TexSh32.uasset'
+[2016.11.28-22.17.57:328][474]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/Geometry/BP_TexSh32.uasset
+[2016.11.28-22.17.57:344][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/usct_mammaPhantom_s032" FILE="../../../../../../UnrealProjects/vrusct1/Content/Geometry/usct_mammaPhantom_s032.uasset" SILENT=true
+[2016.11.28-22.17.57:356][474]LogSavePackage: Save=10.89ms
+[2016.11.28-22.17.57:356][474]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/usct_mammaPhantom_s032F35AD938420B7235EF97E3A7A6A5C564.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/Geometry/usct_mammaPhantom_s032.uasset'
+[2016.11.28-22.17.57:358][474]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/Geometry/usct_mammaPhantom_s032.uasset
+[2016.11.28-22.17.57:381][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/MatUsct32" FILE="../../../../../../UnrealProjects/vrusct1/Content/Geometry/MatUsct32.uasset" SILENT=true
+[2016.11.28-22.17.57:399][474]LogSavePackage: Save=15.42ms
+[2016.11.28-22.17.57:399][474]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/MatUsct3282AE9CFB4E9CB33BFFFD60997F8EB1AE.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/Geometry/MatUsct32.uasset'
+[2016.11.28-22.17.57:401][474]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/Geometry/MatUsct32.uasset
+[2016.11.28-22.17.57:404][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EditorMeshes/EditorPlane2" FILE="../../../Engine/Content/EditorMeshes/EditorPlane2.uasset" SILENT=true
+[2016.11.28-22.17.57:406][474]LogSavePackage: Save=1.05ms
+[2016.11.28-22.17.57:406][474]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/EditorPlane297A974C843AE256E387C4AA919D2E074.tmp' to '../../../Engine/Content/EditorMeshes/EditorPlane2.uasset'
+[2016.11.28-22.17.57:408][474]LogSavePackage:Display: Finished SavePackage ../../../Engine/Content/EditorMeshes/EditorPlane2.uasset
+[2016.11.28-22.17.57:428][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/EditorPlane2" FILE="../../../../../../UnrealProjects/vrusct1/Content/Geometry/EditorPlane2.uasset" SILENT=true
+[2016.11.28-22.17.57:445][474]LogSavePackage: Save=13.52ms
+[2016.11.28-22.17.57:445][474]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/EditorPlane29287A0B541A61860DCE7D4B3575E8D3E.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/Geometry/EditorPlane2.uasset'
+[2016.11.28-22.17.57:446][474]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/Geometry/EditorPlane2.uasset
+[2016.11.28-22.19.48:937][841]LogMaterialEditor: Applying material MatUsct32
+[2016.11.28-22.19.49:836][841]LogMaterial: Missing cached shader map for material MatUsct32, compiling. 
+[2016.11.28-22.19.49:867][841]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.28-22.19.49:893][841]LogMaterial: Missing cached shader map for material MatUsct32, compiling. 
+[2016.11.28-22.19.49:928][841]LogMaterial: Missing cached shader map for material MatUsct32, compiling. 
+[2016.11.28-22.19.49:956][841]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.28-22.19.55:454][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/MatUsct32" FILE="../../../../../../UnrealProjects/vrusct1/Content/Geometry/MatUsct32.uasset" SILENT=true
+[2016.11.28-22.19.55:470][ 86]LogSavePackage: Save=14.76ms
+[2016.11.28-22.19.55:470][ 86]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/MatUsct32F4EC442E4D19B99CF3474BB32BD9C89A.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/Geometry/MatUsct32.uasset'
+[2016.11.28-22.19.55:472][ 86]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/Geometry/MatUsct32.uasset
+[2016.11.28-22.19.55:478][ 86]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 100 instructions
+[2016.11.28-22.19.55:478][ 86]MaterialEditorStats: Info Vertex shader: 87 instructions
+[2016.11.28-22.19.55:478][ 86]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.11.28-22.20.53:325][688]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 112 classes and 0 folders.
+[2016.11.28-22.27.55:789][511]LogSavePackage: Save=384.62ms
+[2016.11.28-22.27.55:789][511]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/MotionControllerMap4654A98E4F66B783E41981B5B800055E.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2016.11.28-22.27.55:792][511]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2016.11.28-22.27.55:812][511]LogFileHelpers: Saving map 'MotionControllerMap' took 0.494
+[2016.11.28-22.27.55:834][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/BP_TexSh32" FILE="../../../../../../UnrealProjects/vrusct1/Content/Geometry/BP_TexSh32.uasset" SILENT=true
+[2016.11.28-22.27.55:859][511]LogSavePackage: Save=22.64ms
+[2016.11.28-22.27.55:859][511]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/BP_TexSh32ADF71B6E4327241382AF509680EF6002.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/Geometry/BP_TexSh32.uasset'
+[2016.11.28-22.27.55:861][511]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/Geometry/BP_TexSh32.uasset
+[2016.11.28-22.27.57:350][573]BlueprintLog: New page: Compile BP_TexSh32
+[2016.11.28-22.28.33:338][ 72]LogEditorViewport: Clicking on Actor (LMB): BP_TexSh32_C (BP_TexSh32)
+[2016.11.28-22.28.40:781][447]LogEditorViewport: Clicking on Actor (LMB): BP_TexSh32_C (BP_TexSh33)
+[2016.11.28-22.28.53:998][ 86]LogEditorViewport: Clicking on Actor (LMB): BP_TexSh32_C (BP_TexSh32)
+[2016.11.28-22.28.55:699][173]LogEditorViewport: Clicking on Actor (LMB): BP_TexSh32_C (BP_TexSh33)
+[2016.11.28-22.29.13:532][ 72]LogEditorViewport: Clicking on Actor (LMB): BP_TexSh32_C (BP_TexSh32)
+[2016.11.28-22.29.39:954][358]LogEditorActor: Deleted Actor: BP_TexSh32_C
+[2016.11.28-22.29.39:983][358]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2016.11.28-22.30.32:853][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (usctMammaPhantom3_BackgroundPoly)
+[2016.11.28-22.30.53:279][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (usctMammaPhantom3_BackgroundPoly_001)
+[2016.11.28-22.31.18:841][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (usctMammaPhantom3_BackgroundPoly)
+[2016.11.28-22.31.26:794][768]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (usctMammaPhantom3_BackgroundPoly_001)
+[2016.11.28-22.31.36:360][244]LogEditorViewport: Clicking on Actor (context menu): BP_TexSh32_C (BP_TexSh32)
+[2016.11.28-22.32.42:801][159]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2016.11.28-22.32.56:009][810]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube10)
+[2016.11.28-22.33.21:330][ 87]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel2)
+[2016.11.28-22.33.53:870][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (usctMammaPhantom3_usctMammaPhantom)
+[2016.11.28-22.34.15:604][773]LogActorFactory: Actor Factory created Cylinder
+[2016.11.28-22.34.16:008][788]LogActorFactory: Actor Factory created Cylinder
+[2016.11.28-22.34.17:315][854]LogActorFactory: Actor Factory created Cylinder
+[2016.11.28-22.35.56:068][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube8)
+[2016.11.28-22.36.07:237][966]Cmd: TRANSACTION UNDO
+[2016.11.28-22.36.07:237][966]LogEditorTransaction: Undo Move Actors
+[2016.11.28-22.36.07:291][966]LogMaterial: Missing cached shader map for material MatUsct32, compiling. 
+[2016.11.28-22.36.07:306][966]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.28-22.36.10:255][ 62]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 24 instructions
+[2016.11.28-22.36.10:255][ 62]MaterialEditorStats: Info Vertex shader: 87 instructions
+[2016.11.28-22.36.10:255][ 62]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.11.28-22.36.23:730][729]LogEditorViewport: Clicking on Actor (LMB): BP_TexSh32_C (BP_TexSh32)
+[2016.11.28-22.36.57:791][419]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel2)
+[2016.11.28-22.37.00:333][543]Cmd: DUPLICATE
+[2016.11.28-22.37.00:333][543]Cmd: ACTOR DUPLICATE
+[2016.11.28-22.37.11:278][ 56]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel2)
+[2016.11.28-22.37.28:786][827]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel4)
+[2016.11.28-22.38.25:888][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube10)
+[2016.11.28-22.38.29:641][779]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube38)
+[2016.11.28-22.38.30:472][817]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube40)
+[2016.11.28-22.38.33:456][970]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2016.11.28-22.38.43:281][475]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube39)
+[2016.11.28-22.38.51:398][887]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube9)
+[2016.11.28-22.39.09:434][814]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube38)
+[2016.11.28-22.39.12:701][980]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube40)
+[2016.11.28-22.39.14:005][ 44]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PickupCube_C (EditorCube39)
+[2016.11.28-22.39.31:969][940]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2016.11.28-22.39.46:424][532]LogSavePackage: Save=381.24ms
+[2016.11.28-22.39.46:424][532]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/MotionControllerMapEDA1810A42158222C6A5B89F1915BDD2.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2016.11.28-22.39.46:426][532]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2016.11.28-22.39.46:447][532]LogFileHelpers: Saving map 'MotionControllerMap' took 0.492
+[2016.11.28-22.39.57:167][ 74]LogEditorViewport: Clicking on Actor (LMB): NavModifierVolume (NavModifierVolume10)
+[2016.11.28-22.40.00:800][256]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2016.11.28-22.40.10:548][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube10)
+[2016.11.28-22.40.17:332][101]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube9)
+[2016.11.28-22.40.23:002][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube10)
+[2016.11.28-22.40.26:667][580]LogEditorViewport: Clicking on Actor (LMB): NavModifierVolume (NavModifierVolume10)
+[2016.11.28-22.40.37:152][113]LogEditorViewport: Clicking on Actor (LMB): NavModifierVolume (NavModifierVolume9)
+[2016.11.28-22.40.41:213][316]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2016.11.28-22.41.07:815][645]LogSavePackage: Save=377.73ms
+[2016.11.28-22.41.07:815][645]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/MotionControllerMap74CC94914E05880FBDF98DA87BB330FF.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2016.11.28-22.41.07:817][645]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2016.11.28-22.41.07:838][645]LogFileHelpers: Saving map 'MotionControllerMap' took 0.484
+[2016.11.28-22.41.38:980][524]Cmd: CLOSE_SLATE_MAINFRAME
+[2016.11.28-22.42.32:885][663]LogMaterial: Missing cached shader map for material MatUsct32, compiling. 
+[2016.11.28-22.42.32:914][663]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.28-22.42.32:932][663]LogMaterial: Missing cached shader map for material MatUsct32, compiling. 
+[2016.11.28-22.42.32:963][663]LogMaterial: Missing cached shader map for material MatUsct32, compiling. 
+[2016.11.28-22.42.32:989][663]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.28-22.42.54:969][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/MatUsct32" FILE="../../../../../../UnrealProjects/vrusct1/Content/Geometry/MatUsct32.uasset" SILENT=true
+[2016.11.28-22.42.54:988][301]LogSavePackage: Save=15.61ms
+[2016.11.28-22.42.54:988][301]LogSavePackage: Moving '../../../../../../UnrealProjects/vrusct1/Saved/MatUsct32F0770FB140C090C601C3859EEA3B966B.tmp' to '../../../../../../UnrealProjects/vrusct1/Content/Geometry/MatUsct32.uasset'
+[2016.11.28-22.42.54:989][301]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/vrusct1/Content/Geometry/MatUsct32.uasset
+[2016.11.28-22.42.58:277][528]Cmd: CLOSE_SLATE_MAINFRAME
+[2016.11.28-22.42.58:762][529]Cmd: QUIT_EDITOR
+[2016.11.28-22.42.59:181][529]LogExit: Preparing to exit.
+[2016.11.28-22.43.00:630][529]LogDirectoryWatcher: A directory notification for 'C:/UnrealProjects/vrusct1/Content/' was aborted.
+[2016.11.28-22.43.00:766][529]LogExit: Editor shut down
+[2016.11.28-22.43.00:766][529]LogExit: Transaction tracking system shut down
+[2016.11.28-22.43.02:488][529]LogObj: Freed 0b from 0 cluster array pools.
+[2016.11.28-22.43.02:489][529]LogExit: Object subsystem successfully closed.
+[2016.11.28-22.43.02:696][529]LogD3D11RHI: Shutdown
+[2016.11.28-22.43.02:696][529]LogD3D11RHI: CleanupD3DDevice
+[2016.11.28-22.43.02:897][529]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.11.28-22.43.03:559][529]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (240)
+[2016.11.28-22.43.03:571][529]LogModuleManager: Shutting down and abandoning module BlueprintGraph (239)
+[2016.11.28-22.43.03:571][529]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (238)
+[2016.11.28-22.43.03:602][529]LogModuleManager: Shutting down and abandoning module TextureEditor (237)
+[2016.11.28-22.43.03:614][529]LogModuleManager: Shutting down and abandoning module MaterialEditor (236)
+[2016.11.28-22.43.03:614][529]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (235)
+[2016.11.28-22.43.03:614][529]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (234)
+[2016.11.28-22.43.03:614][529]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (233)
+[2016.11.28-22.43.03:615][529]LogModuleManager: Shutting down and abandoning module CrashTracker (232)
+[2016.11.28-22.43.03:622][529]LogModuleManager: Shutting down and abandoning module SceneOutliner (231)
+[2016.11.28-22.43.03:622][529]LogModuleManager: Shutting down and abandoning module WidgetCarousel (230)
+[2016.11.28-22.43.03:622][529]LogModuleManager: Shutting down and abandoning module AddContentDialog (229)
+[2016.11.28-22.43.03:637][529]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/4.13/FeaturePacks/' was aborted.
+[2016.11.28-22.43.03:640][529]LogModuleManager: Shutting down and abandoning module GameplayTags (228)
+[2016.11.28-22.43.03:640][529]LogModuleManager: Shutting down and abandoning module EditorWidgets (227)
+[2016.11.28-22.43.03:640][529]LogModuleManager: Shutting down and abandoning module CollectionManager (226)
+[2016.11.28-22.43.03:699][529]LogDirectoryWatcher: A directory notification for 'C:/UnrealProjects/vrusct1/Content/Collections/' was aborted.
+[2016.11.28-22.43.03:699][529]LogDirectoryWatcher: A directory notification for 'C:/UnrealProjects/vrusct1/Content/Developers/till/Collections/' was aborted.
+[2016.11.28-22.43.03:699][529]LogDirectoryWatcher: A directory notification for 'C:/UnrealProjects/vrusct1/Saved/Collections/' was aborted.
+[2016.11.28-22.43.03:699][529]LogModuleManager: Shutting down and abandoning module StatsViewer (225)
+[2016.11.28-22.43.03:788][529]LogModuleManager: Shutting down and abandoning module FoliageEdit (224)
+[2016.11.28-22.43.03:805][529]LogModuleManager: Shutting down and abandoning module LandscapeEditor (223)
+[2016.11.28-22.43.03:806][529]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (222)
+[2016.11.28-22.43.03:806][529]LogModuleManager: Shutting down and abandoning module ActorPickerMode (221)
+[2016.11.28-22.43.03:806][529]LogModuleManager: Shutting down and abandoning module GeometryMode (220)
+[2016.11.28-22.43.03:806][529]LogModuleManager: Shutting down and abandoning module TextureAlignMode (219)
+[2016.11.28-22.43.03:806][529]LogModuleManager: Shutting down and abandoning module BspMode (218)
+[2016.11.28-22.43.03:925][529]LogModuleManager: Shutting down and abandoning module HardwareSurvey (217)
+[2016.11.28-22.43.03:939][529]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (216)
+[2016.11.28-22.43.03:939][529]LogModuleManager: Shutting down and abandoning module SequenceRecorder (215)
+[2016.11.28-22.43.03:939][529]LogModuleManager: Shutting down and abandoning module AutomationWorker (214)
+[2016.11.28-22.43.03:955][529]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (213)
+[2016.11.28-22.43.03:965][529]LogModuleManager: Shutting down and abandoning module PlacementMode (212)
+[2016.11.28-22.43.04:023][529]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (211)
+[2016.11.28-22.43.04:033][529]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (210)
+[2016.11.28-22.43.04:033][529]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (209)
+[2016.11.28-22.43.04:033][529]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (208)
+[2016.11.28-22.43.04:033][529]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (207)
+[2016.11.28-22.43.04:033][529]LogModuleManager: Shutting down and abandoning module Media (206)
+[2016.11.28-22.43.04:033][529]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (205)
+[2016.11.28-22.43.04:033][529]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (204)
+[2016.11.28-22.43.04:033][529]LogModuleManager: Shutting down and abandoning module CharacterAI (203)
+[2016.11.28-22.43.04:033][529]LogModuleManager: Shutting down and abandoning module SmartSnapping (202)
+[2016.11.28-22.43.04:033][529]LogModuleManager: Shutting down and abandoning module SessionServices (201)
+[2016.11.28-22.43.04:033][529]LogModuleManager: Shutting down and abandoning module ViewportSnapping (200)
+[2016.11.28-22.43.04:033][529]LogModuleManager: Shutting down and abandoning module ViewportInteraction (199)
+[2016.11.28-22.43.04:033][529]LogModuleManager: Shutting down and abandoning module LogVisualizer (198)
+[2016.11.28-22.43.04:051][529]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (197)
+[2016.11.28-22.43.04:062][529]LogModuleManager: Shutting down and abandoning module IntroTutorials (196)
+[2016.11.28-22.43.04:073][529]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (195)
+[2016.11.28-22.43.04:073][529]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (194)
+[2016.11.28-22.43.04:086][529]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (193)
+[2016.11.28-22.43.04:086][529]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (192)
+[2016.11.28-22.43.04:610][529]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (191)
+[2016.11.28-22.43.04:611][529]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (190)
+[2016.11.28-22.43.04:611][529]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (189)
+[2016.11.28-22.43.04:611][529]LogModuleManager: Shutting down and abandoning module NiagaraEditor (188)
+[2016.11.28-22.43.04:641][529]LogModuleManager: Shutting down and abandoning module MergeActors (187)
+[2016.11.28-22.43.04:645][529]LogModuleManager: Shutting down and abandoning module SizeMap (186)
+[2016.11.28-22.43.04:651][529]LogModuleManager: Shutting down and abandoning module TreeMap (185)
+[2016.11.28-22.43.04:686][529]LogModuleManager: Shutting down and abandoning module ReferenceViewer (184)
+[2016.11.28-22.43.04:687][529]LogModuleManager: Shutting down and abandoning module LocalizationService (183)
+[2016.11.28-22.43.04:696][529]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (182)
+[2016.11.28-22.43.04:711][529]LogModuleManager: Shutting down and abandoning module HardwareTargeting (181)
+[2016.11.28-22.43.04:711][529]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (180)
+[2016.11.28-22.43.04:729][529]LogModuleManager: Shutting down and abandoning module UndoHistory (179)
+[2016.11.28-22.43.04:748][529]LogModuleManager: Shutting down and abandoning module UserFeedback (178)
+[2016.11.28-22.43.04:748][529]LogModuleManager: Shutting down and abandoning module XmlParser (177)
+[2016.11.28-22.43.04:748][529]LogModuleManager: Shutting down and abandoning module Blutility (176)
+[2016.11.28-22.43.04:759][529]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (175)
+[2016.11.28-22.43.04:763][529]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (174)
+[2016.11.28-22.43.04:763][529]LogModuleManager: Shutting down and abandoning module InputBindingEditor (173)
+[2016.11.28-22.43.04:875][529]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (172)
+[2016.11.28-22.43.04:875][529]LogModuleManager: Shutting down and abandoning module SettingsEditor (171)
+[2016.11.28-22.43.04:928][529]LogModuleManager: Shutting down and abandoning module ProjectLauncher (170)
+[2016.11.28-22.43.05:087][529]LogModuleManager: Shutting down and abandoning module SessionFrontend (169)
+[2016.11.28-22.43.05:184][529]LogModuleManager: Shutting down and abandoning module ProfilerClient (168)
+[2016.11.28-22.43.05:335][529]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (167)
+[2016.11.28-22.43.05:335][529]LogModuleManager: Shutting down and abandoning module DeviceManager (166)
+[2016.11.28-22.43.05:447][529]LogModuleManager: Shutting down and abandoning module AutomationController (165)
+[2016.11.28-22.43.05:566][529]LogModuleManager: Shutting down and abandoning module AutomationWindow (164)
+[2016.11.28-22.43.05:629][529]LogModuleManager: Shutting down and abandoning module Layers (163)
+[2016.11.28-22.43.05:708][529]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (162)
+[2016.11.28-22.43.05:708][529]LogModuleManager: Shutting down and abandoning module DetailCustomizations (161)
+[2016.11.28-22.43.05:721][529]LogModuleManager: Shutting down and abandoning module PackagesDialog (160)
+[2016.11.28-22.43.05:721][529]LogModuleManager: Shutting down and abandoning module AnimGraph (159)
+[2016.11.28-22.43.05:721][529]LogModuleManager: Shutting down and abandoning module Persona (158)
+[2016.11.28-22.43.05:821][529]LogModuleManager: Shutting down and abandoning module Kismet (157)
+[2016.11.28-22.43.05:831][529]LogModuleManager: Shutting down and abandoning module GraphEditor (156)
+[2016.11.28-22.43.05:831][529]LogModuleManager: Shutting down and abandoning module ClassViewer (155)
+[2016.11.28-22.43.05:882][529]LogModuleManager: Shutting down and abandoning module Toolbox (154)
+[2016.11.28-22.43.05:893][529]LogModuleManager: Shutting down and abandoning module ModuleUI (153)
+[2016.11.28-22.43.05:906][529]LogModuleManager: Shutting down and abandoning module MovieSceneTools (152)
+[2016.11.28-22.43.05:929][529]LogModuleManager: Shutting down and abandoning module OutputLog (151)
+[2016.11.28-22.43.05:929][529]LogModuleManager: Shutting down and abandoning module GammaUI (150)
+[2016.11.28-22.43.05:933][529]LogModuleManager: Shutting down and abandoning module Documentation (149)
+[2016.11.28-22.43.05:933][529]LogModuleManager: Shutting down and abandoning module Niagara (148)
+[2016.11.28-22.43.05:938][529]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (147)
+[2016.11.28-22.43.05:938][529]LogModuleManager: Shutting down and abandoning module AnalyticsET (146)
+[2016.11.28-22.43.05:938][529]LogModuleManager: Shutting down and abandoning module PortalServices (145)
+[2016.11.28-22.43.05:938][529]LogModuleManager: Shutting down and abandoning module PortalRpc (144)
+[2016.11.28-22.43.05:938][529]LogModuleManager: Shutting down and abandoning module MessagingRpc (143)
+[2016.11.28-22.43.05:938][529]LogModuleManager: Shutting down and abandoning module GameplayDebugger (142)
+[2016.11.28-22.43.05:956][529]LogModuleManager: Shutting down and abandoning module AITestSuite (141)
+[2016.11.28-22.43.05:967][529]LogModuleManager: Shutting down and abandoning module AIModule (140)
+[2016.11.28-22.43.05:967][529]LogModuleManager: Shutting down and abandoning module ProfilerService (139)
+[2016.11.28-22.43.06:124][529]LogModuleManager: Shutting down and abandoning module TaskGraph (138)
+[2016.11.28-22.43.06:137][529]LogModuleManager: Shutting down and abandoning module SlateRemote (137)
+[2016.11.28-22.43.06:137][529]LogModuleManager: Shutting down and abandoning module SteamVRController (136)
+[2016.11.28-22.43.06:137][529]LogModuleManager: Shutting down and abandoning module SteamVR (135)
+[2016.11.28-22.43.06:137][529]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (134)
+[2016.11.28-22.43.06:137][529]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (133)
+[2016.11.28-22.43.06:151][529]LogModuleManager: Shutting down and abandoning module OculusLibrary (132)
+[2016.11.28-22.43.06:155][529]LogModuleManager: Shutting down and abandoning module OculusInput (131)
+[2016.11.28-22.43.06:155][529]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (130)
+[2016.11.28-22.43.06:155][529]LogModuleManager: Shutting down and abandoning module CableComponent (129)
+[2016.11.28-22.43.06:155][529]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (128)
+[2016.11.28-22.43.06:156][529]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (126)
+[2016.11.28-22.43.06:189][529]LogModuleManager: Shutting down and abandoning module HTML5Networking (125)
+[2016.11.28-22.43.06:189][529]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (124)
+[2016.11.28-22.43.06:189][529]LogModuleManager: Shutting down and abandoning module GeometryCache (123)
+[2016.11.28-22.43.06:189][529]LogModuleManager: Shutting down and abandoning module AlembicLibrary (122)
+[2016.11.28-22.43.06:189][529]LogModuleManager: Shutting down and abandoning module AlembicImporter (121)
+[2016.11.28-22.43.06:195][529]LogModuleManager: Shutting down and abandoning module SuperSearch (120)
+[2016.11.28-22.43.06:195][529]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (119)
+[2016.11.28-22.43.06:195][529]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (118)
+[2016.11.28-22.43.06:195][529]LogModuleManager: Shutting down and abandoning module PluginBrowser (117)
+[2016.11.28-22.43.06:208][529]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (116)
+[2016.11.28-22.43.06:221][529]LogModuleManager: Shutting down and abandoning module EpicSurvey (115)
+[2016.11.28-22.43.06:224][529]LogModuleManager: Shutting down and abandoning module DesktopPlatform (114)
+[2016.11.28-22.43.06:231][529]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (113)
+[2016.11.28-22.43.06:240][529]LogModuleManager: Shutting down and abandoning module UObjectPlugin (112)
+[2016.11.28-22.43.06:241][529]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (111)
+[2016.11.28-22.43.06:249][529]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (110)
+[2016.11.28-22.43.06:275][529]LogModuleManager: Shutting down and abandoning module SourceControl (109)
+[2016.11.28-22.43.06:285][529]LogModuleManager: Shutting down and abandoning module GitSourceControl (108)
+[2016.11.28-22.43.06:296][529]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (107)
+[2016.11.28-22.43.06:296][529]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (106)
+[2016.11.28-22.43.06:296][529]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (105)
+[2016.11.28-22.43.06:296][529]LogModuleManager: Shutting down and abandoning module MeshPaint (104)
+[2016.11.28-22.43.06:296][529]LogModuleManager: Shutting down and abandoning module FbxAutomationBuilderModule (103)
+[2016.11.28-22.43.06:303][529]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (102)
+[2016.11.28-22.43.06:316][529]LogModuleManager: Shutting down and abandoning module HotReload (101)
+[2016.11.28-22.43.06:340][529]LogModuleManager: Shutting down and abandoning module MainFrame (100)
+[2016.11.28-22.43.06:340][529]LogModuleManager: Shutting down and abandoning module LevelEditor (99)
+[2016.11.28-22.43.06:341][529]LogModuleManager: Shutting down and abandoning module ContentBrowser (98)
+[2016.11.28-22.43.06:342][529]LogModuleManager: Shutting down and abandoning module Paper2DEditor (97)
+[2016.11.28-22.43.06:352][529]LogModuleManager: Shutting down and abandoning module UdpMessaging (96)
+[2016.11.28-22.43.06:452][529]LogModuleManager: Shutting down and abandoning module TcpMessaging (95)
+[2016.11.28-22.43.06:559][529]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (94)
+[2016.11.28-22.43.06:559][529]LogModuleManager: Shutting down and abandoning module Paper2D (93)
+[2016.11.28-22.43.06:576][529]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (92)
+[2016.11.28-22.43.06:579][529]LogModuleManager: Shutting down and abandoning module WmfMedia (91)
+[2016.11.28-22.43.06:618][529]LogModuleManager: Shutting down and abandoning module MediaAssets (90)
+[2016.11.28-22.43.06:618][529]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (89)
+[2016.11.28-22.43.06:626][529]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (88)
+[2016.11.28-22.43.06:629][529]LogModuleManager: Shutting down and abandoning module VREditor (87)
+[2016.11.28-22.43.06:629][529]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (86)
+[2016.11.28-22.43.06:629][529]LogModuleManager: Shutting down and abandoning module PropertyEditor (85)
+[2016.11.28-22.43.06:629][529]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (84)
+[2016.11.28-22.43.06:656][529]LogModuleManager: Shutting down and abandoning module FunctionalTesting (83)
+[2016.11.28-22.43.06:656][529]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (82)
+[2016.11.28-22.43.06:667][529]LogModuleManager: Shutting down and abandoning module Sequencer (81)
+[2016.11.28-22.43.06:716][529]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (80)
+[2016.11.28-22.43.06:716][529]LogModuleManager: Shutting down and abandoning module MessageLog (79)
+[2016.11.28-22.43.06:716][529]LogModuleManager: Shutting down and abandoning module AssetTools (78)
+[2016.11.28-22.43.06:726][529]LogModuleManager: Shutting down and abandoning module UMGEditor (77)
+[2016.11.28-22.43.06:767][529]LogModuleManager: Shutting down and abandoning module UMG (76)
+[2016.11.28-22.43.06:787][529]LogModuleManager: Shutting down and abandoning module SlateReflector (75)
+[2016.11.28-22.43.06:817][529]LogModuleManager: Shutting down and abandoning module Slate (74)
+[2016.11.28-22.43.06:817][529]LogModuleManager: Shutting down and abandoning module EditorStyle (73)
+[2016.11.28-22.43.06:819][529]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (72)
+[2016.11.28-22.43.06:819][529]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (71)
+[2016.11.28-22.43.06:819][529]LogModuleManager: Shutting down and abandoning module XAudio2 (70)
+[2016.11.28-22.43.06:819][529]LogModuleManager: Shutting down and abandoning module Networking (68)
+[2016.11.28-22.43.06:819][529]LogModuleManager: Shutting down and abandoning module Core (67)
+[2016.11.28-22.43.06:819][529]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (66)
+[2016.11.28-22.43.06:820][529]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2016.11.28-22.43.06:820][529]LogDirectoryWatcher: A directory notification for '../../../../../../UnrealProjects/vrusct1/Content/' was aborted.
+[2016.11.28-22.43.06:820][529]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2016.11.28-22.43.06:821][529]LogModuleManager: Shutting down and abandoning module AssetRegistry (65)
+[2016.11.28-22.43.07:044][529]LogModuleManager: Shutting down and abandoning module KismetCompiler (64)
+[2016.11.28-22.43.07:044][529]LogModuleManager: Shutting down and abandoning module PhysXFormats (63)
+[2016.11.28-22.43.07:044][529]LogModuleManager: Shutting down and abandoning module MeshUtilities (62)
+[2016.11.28-22.43.07:060][529]LogModuleManager: Shutting down and abandoning module DerivedDataCache (61)
+[2016.11.28-22.43.07:134][529]LogDerivedDataCache: Shutdown
+[2016.11.28-22.43.07:134][529]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (60)
+[2016.11.28-22.43.07:146][529]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (59)
+[2016.11.28-22.43.07:155][529]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (58)
+[2016.11.28-22.43.07:160][529]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (57)
+[2016.11.28-22.43.07:169][529]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (56)
+[2016.11.28-22.43.07:169][529]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (55)
+[2016.11.28-22.43.07:173][529]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (54)
+[2016.11.28-22.43.07:173][529]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (53)
+[2016.11.28-22.43.07:177][529]LogModuleManager: Shutting down and abandoning module ImageWrapper (52)
+[2016.11.28-22.43.07:177][529]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (51)
+[2016.11.28-22.43.07:177][529]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (50)
+[2016.11.28-22.43.07:177][529]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (49)
+[2016.11.28-22.43.07:181][529]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (48)
+[2016.11.28-22.43.07:192][529]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (47)
+[2016.11.28-22.43.07:204][529]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (46)
+[2016.11.28-22.43.07:204][529]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (45)
+[2016.11.28-22.43.07:209][529]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (44)
+[2016.11.28-22.43.07:214][529]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (43)
+[2016.11.28-22.43.07:219][529]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (42)
+[2016.11.28-22.43.07:219][529]LogModuleManager: Shutting down and abandoning module Messaging (41)
+[2016.11.28-22.43.07:220][529]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (40)
+[2016.11.28-22.43.07:220][529]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (39)
+[2016.11.28-22.43.07:220][529]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (38)
+[2016.11.28-22.43.07:220][529]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (37)
+[2016.11.28-22.43.07:220][529]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (36)
+[2016.11.28-22.43.07:220][529]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (35)
+[2016.11.28-22.43.07:220][529]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (34)
+[2016.11.28-22.43.07:220][529]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (33)
+[2016.11.28-22.43.07:220][529]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (32)
+[2016.11.28-22.43.07:220][529]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (31)
+[2016.11.28-22.43.07:220][529]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (30)
+[2016.11.28-22.43.07:220][529]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (29)
+[2016.11.28-22.43.07:220][529]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (28)
+[2016.11.28-22.43.07:229][529]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (27)
+[2016.11.28-22.43.07:237][529]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2016.11.28-22.43.07:237][529]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2016.11.28-22.43.07:237][529]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2016.11.28-22.43.07:237][529]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2016.11.28-22.43.07:237][529]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2016.11.28-22.43.07:248][529]LogModuleManager: Shutting down and abandoning module GearVR (21)
+[2016.11.28-22.43.07:248][529]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (20)
+[2016.11.28-22.43.07:248][529]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (19)
+[2016.11.28-22.43.07:248][529]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (17)
+[2016.11.28-22.43.07:257][529]LogOnline:Display: Unloading online subsystem: NULL
+[2016.11.28-22.43.07:276][529]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2016.11.28-22.43.07:276][529]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2016.11.28-22.43.07:276][529]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0045BE67-46EC-DDFB-6ABB-76BE6D109F3D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.13.1-3142249%2B%2B%2BUE4%2BRelease-4.13&UserID=fdaf1ea54beb0a8c52215fa3d858b342%7Cf7fb91ba73734f29baf24129a7fba977%7C5ff18516-5a8b-45e2-90f8-bc92a05c5572&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2016.11.28-22.43.07:282][529]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2016.11.28-22.43.07:308][529]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.11.28-22.43.07:308][529]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.11.28-22.43.07:308][529]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.11.28-22.43.07:308][529]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.11.28-22.43.07:321][529]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.11.28-22.43.07:330][529]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.11.28-22.43.07:330][529]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.11.28-22.43.07:330][529]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.11.28-22.43.07:330][529]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.11.28-22.43.07:330][529]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.11.28-22.43.07:330][529]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.11.28-22.43.07:340][529]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.11.28-22.43.07:344][529]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.11.28-22.43.07:347][529]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.11.28-22.43.07:394][529]LogExit: Exiting.
+[2016.11.28-22.43.07:414][529]Log file closed, 11/28/16 23:43:07
